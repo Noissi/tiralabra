@@ -14,7 +14,7 @@ Työn tarkoitus on selvittää tiedonpakkausmenetelmien eroja eri tiedostotyypei
 
 ### Ohjelmalle annettavat syötteet
 
-Tarkoitus on käyttää ainakin tekti- sekä kuvatiedostoja.
+Tarkoitus on käyttää ainakin teksti- sekä kuvatiedostoja.
 
 ### Aika- ja tilavaativuudet
 -
