@@ -22,5 +22,30 @@ Tiralabra-kurssin algoritmityö.
 
 Lataa projektin viimeisin [release](https://github.com/Noissi/tiralabra/releases): _Assets_ -> _Source code_.
 
+1. Riippuvuuksien asentaminen
+```
+poetry install
+```
+
+2. Sovelluksen ajaminen
+```
+poetry run invoke start
+```
+
+### Testaus
+Testien suorittaminen
+```
+poetry run invoke test
+```
+Testikattavuusraportti
+```
+poetry run invoke coverage-report
+```
+
+### Pylint
+.pylintrc-tiedoston tarkistusten suorittaminen:
+```
+poetry run invoke lint
+```
 
 :chicken:
