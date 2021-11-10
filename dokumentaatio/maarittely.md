@@ -10,11 +10,11 @@ Tässä työssä toteutetaan ja vertaillaan Lempel-Ziv- ja Huffman-tiedostonpakk
 
 ### Ratkaistava ongelma
 
-Työn tarkoitus on selvittää tiedonpakkausmenetelmien eroja eri tiedostotyypeille.
+Työn tarkoitus on selvittää tiedonpakkausmenetelmien eroja tekstitiedostoilla.
 
 ### Ohjelmalle annettavat syötteet
 
-Tarkoitus on käyttää ainakin teksti- sekä kuvatiedostoja.
+Tarkoitus on käyttää ainakin tekstiiedostoja.
 
 ### Aika- ja tilavaativuudet
 -
