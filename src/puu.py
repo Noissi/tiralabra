@@ -7,7 +7,7 @@ class Silmu:
         data:  syötteenä annettu kirjain
     """
 
-	def __init__(self, kirjain):
+	def __init__(self, kirjain, maara):
 		""" Luokan muodostaja. Luo uuden Silmun.
         Args:
             kirjain: Silmuun talletettava kirjain.
@@ -16,7 +16,8 @@ class Silmu:
 		self.vasen = None
 		self.oikea = None
 		self.kirjain = kirjain
+		self.maara = maara
 
-	def lapset(oikea, vasen):
+	def lisaaLapset(self, vasen, oikea):
 		self.vasen = vasen
 		self.oikea = oikea
