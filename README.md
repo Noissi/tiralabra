@@ -20,6 +20,8 @@ Tiralabra-kurssin algoritmityö.
 
 * [Viikko 2](https://github.com/Noissi/tiralabra/blob/master/viikkoraportit/viikko2.md)
 
+* [Viikko 3](https://github.com/Noissi/tiralabra/blob/master/viikkoraportit/viikko3.md)
+
 ### Asennus
 
 Lataa projektin viimeisin [release](https://github.com/Noissi/tiralabra/releases): _Assets_ -> _Source code_.
@@ -31,7 +33,7 @@ poetry install
 
 2. Sovelluksen ajaminen
 ```
-poetry run invoke start
+poetry run invoke start (tiedostonimi)
 ```
 
 ### Testaus
