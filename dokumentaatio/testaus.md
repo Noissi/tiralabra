@@ -13,3 +13,5 @@ Sovelluksen haarautumakattavuus on 85%.
 ### Järjestelmätestaus
 
 Automaattisten testien lisäksi ohjelmaa on testattu manuaalisesti ongelmien havaitsemiseksi. Käyttöohje ja vaatimusmäärittely on otettu huomioon testauksessa.
+
+Eri pakkausalgoritmeja on testattu useilla esimerkkitekstitiedostoilla.

@@ -15,12 +15,12 @@ class Lempelziv:
         self.tiedosto = tiedosto
         self.sanakirja = {}
 
-    def aja(self):
-        """ Alustaa sanakirjan ja ajaa Lempel-Ziv -pakkausalgoritmin.
-		"""
-
         sanakirjan_koko = 256
         self.sanakirja = {chr(i): i for i in range(sanakirjan_koko)}
+
+    def aja(self):
+        """ Ajaa Lempel-Ziv -pakkausalgoritmin.
+		"""
 
         self.pakkaa()
 
