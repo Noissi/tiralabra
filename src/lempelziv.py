@@ -1,0 +1,61 @@
+class Lempelziv:
+    """ Luokka Lempel-Ziv -tiedostonpakkausalgoritmille.
+
+        Määritteet:
+            tiedosto: Pakattava tekstitiedosto
+            sanakirja: Sanakirja pakkaamista varten.
+    """
+
+    def __init__(self, tiedosto):
+        """ Luokan muodostaja. Luo uuden Lempel-Ziv -algoritmiolion.
+		Parametrit:
+		    tiedosto: Pakattava tekstitiedosto
+		"""
+
+        self.tiedosto = tiedosto
+        self.sanakirja = {}
+
+    def aja(self):
+        """ Alustaa sanakirjan ja ajaa Lempel-Ziv -pakkausalgoritmin.
+		"""
+
+        sanakirjan_koko = 256
+        self.sanakirja = {chr(i): i for i in range(sanakirjan_koko)}
+
+        self.pakkaa()
+
+    def pakkaa(self):
+        """ Pakkaa tiedoston.
+        """
+
+        binaaritiedosto = open("pakatut/pakkaus.lzw", "wb")
+        tekstitiedosto = open(self.tiedosto, "r")
+        rivit = tekstitiedosto.readlines()
+
+        binaariteksti = ""
+        sana = ""
+        tulos = []
+        for teksti in rivit:
+            for merkki in teksti:
+                merkkijono = sana + merkki
+                if merkkijono in self.sanakirja:
+                    sana = merkkijono
+                else:
+                    binaariteksti += bin(self.sanakirja[sana])[2:]
+                    tulos.append(self.sanakirja[sana])
+                    self.sanakirja[merkkijono] = len(self.sanakirja)
+                    sana = merkki
+
+        tavupituus = len(binaariteksti)//8 + 1
+        binaaritiedosto.write(int(binaariteksti[::-1], 2).to_bytes(tavupituus, 'big'))
+
+        if sana:
+            tulos.append(self.sanakirja[sana])
+
+        return tulos
+
+    def pura(self):
+        """ Purkaa tiedoston.
+        """
+
+        pass

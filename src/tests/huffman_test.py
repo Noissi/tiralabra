@@ -3,7 +3,7 @@ from huffman import Huffman
 from puu import Silmu
 from jono import Jono
 
-class TestMain(unittest.TestCase):
+class TestHuffman(unittest.TestCase):
 	def setUp(self):
 		self.pakkaus1 = Huffman("testitiedostot/testi.txt")
 		self.pakkaus2 = Huffman("testitiedostot/abc.txt")

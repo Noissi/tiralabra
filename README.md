@@ -22,6 +22,8 @@ Tiralabra-kurssin algoritmityö.
 
 * [Viikko 3](https://github.com/Noissi/tiralabra/blob/master/viikkoraportit/viikko3.md)
 
+* [Viikko 4](https://github.com/Noissi/tiralabra/blob/master/viikkoraportit/viikko4.md)
+
 ### Asennus
 
 Lataa projektin viimeisin [release](https://github.com/Noissi/tiralabra/releases): _Assets_ -> _Source code_.
@@ -33,7 +35,16 @@ poetry install
 
 2. Sovelluksen ajaminen
 ```
-poetry run invoke start (tiedostonimi)
+poetry run invoke start
+```
+Anna polku pakattavaan tiedostoon, esimerkiksi:
+```
+polku/tiedosto.txt
+```
+
+Valitse pakkausalgoritmi 1: Huffman, 2: Lempel-Ziv, esimerkiksi:
+```
+1
 ```
 
 ### Testaus

@@ -1,17 +1,37 @@
 class Jono:
+    """ Jonorakennetta kuvaava luokka
+        Määritteet:
+            jono: Jonorakenne
+    """
 
-	def __init__(self):
-		self.jono = []
+    def __init__(self):
+        """ Luokan muodostaja. Luo uuden Jonon.
+        """
 
-	# Tarkista onko jono tyhja
-	def onTyhja(self):
-		return self.jono == []
+        self.jono = []
 
-	def pituusYksi(self):
-		return len(self.jono) == 1
+    def onTyhja(self):
+        """ Tarkistaa onko jono tyhja.
+        """
 
-	def lisaaJonoon(self, lisa):
-		self.jono.append(lisa)
+        return self.jono == []
 
-	def poistaJonosta(self):
-		return self.jono.pop(0)
+    def pituusYksi(self):
+        """ Tarkistaa onko jonon pituus yksi.
+        """
+
+        return len(self.jono) == 1
+
+    def lisaaJonoon(self, lisa):
+        """ Lisää jonoon parametrin annetun termin.
+            Parametrit:
+                lisa: Jonoon lisattava termi.
+        """
+
+        self.jono.append(lisa)
+
+    def poistaJonosta(self):
+        """ Poistaa jonosta ensimmäisenä olevan termin.
+        """
+
+        return self.jono.pop(0)
