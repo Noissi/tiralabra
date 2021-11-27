@@ -22,7 +22,8 @@ class Lempelziv:
         """ Ajaa Lempel-Ziv -pakkausalgoritmin.
 		"""
 
-        self.pakkaa()
+        indeksit = self.pakkaa()
+        return indeksit
 
     def pakkaa(self):
         """ Pakkaa tiedoston.
@@ -34,7 +35,7 @@ class Lempelziv:
 
         binaariteksti = ""
         sana = ""
-        tulos = []
+        indeksit = []
         for teksti in rivit:
             for merkki in teksti:
                 merkkijono = sana + merkki
@@ -42,17 +43,17 @@ class Lempelziv:
                     sana = merkkijono
                 else:
                     binaariteksti += bin(self.sanakirja[sana])[2:]
-                    tulos.append(self.sanakirja[sana])
+                    indeksit.append(self.sanakirja[sana])
                     self.sanakirja[merkkijono] = len(self.sanakirja)
                     sana = merkki
 
         tavupituus = len(binaariteksti)//8 + 1
         binaaritiedosto.write(int(binaariteksti[::-1], 2).to_bytes(tavupituus, 'big'))
 
-        if sana:
-            tulos.append(self.sanakirja[sana])
+        #if sana:
+        #    tulos.append(self.sanakirja[sana])
 
-        return tulos
+        return indeksit
 
     def pura(self):
         """ Purkaa tiedoston.

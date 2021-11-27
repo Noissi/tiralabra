@@ -22,4 +22,10 @@ class TestLempelziv(unittest.TestCase):
 
     def test_pura(self):
         pass
+    
+    def test_aja(self):
+        indeksit = self.pakkaus1.pakkaa()
+        indeksit_malli = [84, 228, 109, 228, 32, 111, 110, 32, 116, 101, 115, 116, 105, 263, 101, 107, 266, 105, 10]
+        self.assertEqual(indeksit, indeksit_malli)
+        
 		
