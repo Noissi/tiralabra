@@ -1,4 +1,5 @@
 import unittest
+import os
 from huffman import Huffman
 from puu import Silmu
 from jono import Jono
@@ -105,4 +106,9 @@ class TestHuffman(unittest.TestCase):
 	def test_pakkaa(self):
 		self.pakkaus2.sanakirja = {"a":"1", "b":"01", "c":"001", "\n":"000"}
 		self.pakkaus2.pakkaa()
-		
+        
+        
+	def test_pura_tiedosto_on_olemassa(self):
+		self.pakkaus2.pura("pakatut/pakkaus.hfm", "pakatut/hfm_sanakirja.json")
+		on_olemassa = os.path.exists("pakatut/pakkaus.hfm_purettu")
+		self.assertEqual(True, on_olemassa)

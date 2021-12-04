@@ -6,6 +6,8 @@ Tiedostossa huffman.py toteutetaan Huffmanin algoritmi Huffman-luokan avulla. Ti
     
 ### Vertailu
 
+Vertailu suoritetaan tiedostossa vertailu.py.
+
 ### Puutteet ja parannusehdotukset
 
 Pythonilla pakkausalgoritmien toteutusta vaikeuttaa se, ettei Pythonissa ole mitään helppoa tapaa tallentaa tiedostoihin yksittäisiä bittejä tai bittiryhmiä, joiden pituus ei ole jaollinen kahdeksalla, joten kaikki bitit pitää tallentaa tiedostoon tavuina. Tämän vuoksi koodissa pitää ensin yhdistää tallennettavat bitit pidemmäksi pätkäksi, joka sitten tallennetaan tiedostoon tavuina.

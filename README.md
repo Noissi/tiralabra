@@ -24,6 +24,8 @@ Tiralabra-kurssin algoritmityö.
 
 * [Viikko 4](https://github.com/Noissi/tiralabra/blob/master/viikkoraportit/viikko4.md)
 
+* [Viikko 5](https://github.com/Noissi/tiralabra/blob/master/viikkoraportit/viikko5.md)
+
 ### Asennus
 
 Lataa projektin viimeisin [release](https://github.com/Noissi/tiralabra/releases): _Assets_ -> _Source code_.

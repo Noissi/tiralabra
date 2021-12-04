@@ -5,8 +5,9 @@ description = ""
 authors = ["Peruna <noora.matilainen@helsinki.fi>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.7, <3.11"
 invoke = "^1.6.0"
+numpy = "^1.21.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.1.2"
