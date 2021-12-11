@@ -20,6 +20,9 @@ class Huffman:
         self.tiedosto = tiedosto
         self.sanakirja = {}
 
+        self.nimi = Path(self.tiedosto).stem + ".hfm"
+        self.polku = "pakatut/"
+
     def aja(self):
         """ Ajaa Huffmanin pakkausalgoritmin.
 		"""
@@ -28,39 +31,37 @@ class Huffman:
         esiintyvyys_jarj = sorted(esiintyvyys.items(), key=lambda x: x[1])
         puu = self.kirjaimetPuuhun(esiintyvyys_jarj)
         self.lisaaSanakirjaan(puu, "")
-        pakattu = self.pakkaa()
-        
-        return pakattu
+        self.pakkaa()
 
-		#self.tulostaPuu(puu, ":")
+        return self.polku + self.nimi
 
     def pakkaa(self):
         """ Pakkaa tekstitiedoston pienempään tilaan. Luo uuden binääritiedoston.
 		"""
-        tiedosto_nimi = Path(self.tiedosto).stem
-        with open("pakatut/" + tiedosto_nimi + ".hfm", "wb") as binaaritiedosto, \
+
+        with open(self.polku + self.nimi, "wb") as binaaritiedosto, \
                 open(self.tiedosto, "r") as tekstitiedosto:
 
             rivit = tekstitiedosto.readlines()
             binaariteksti = ""
-    
+
             for teksti in rivit:
                 for kirjain in teksti:
                     binaariteksti += self.sanakirja[kirjain]
-            
+
             if len(binaariteksti)%8 != 0:
                 ekstranollat = 8-(len(binaariteksti)%8)
                 binaariteksti += '0'*(8-(len(binaariteksti)%8))
             else:
                 ekstranollat = 0
-            tavupituus = len(binaariteksti)//8
+            tavupituus = len(binaariteksti) // 8
             binaaritiedosto.write(int(binaariteksti, 2).to_bytes(tavupituus, 'big'))
 
-        sanakirjatiedosto = open("pakatut/hfm_sanakirja.json", 'w')
-        self.sanakirja["nollat"] = ekstranollat
-        json.dump(self.sanakirja, sanakirjatiedosto)
-        
-        return "pakatut/" + tiedosto_nimi + ".hfm"
+        with open("pakatut/hfm_sanakirja.json", 'w') as sanakirjatiedosto:
+            self.sanakirja["nollat"] = ekstranollat
+            json.dump(self.sanakirja, sanakirjatiedosto)
+
+        return binaariteksti
 
     def kirjaintenEsiintyvyys(self):
         """ Laskee kunkin kirjaimen esiintyvyyden annetussa tekstissä.
@@ -70,10 +71,10 @@ class Huffman:
 
         with open(self.tiedosto, "r") as tekstitiedosto:
             rivit = tekstitiedosto.readlines()
-    
+
             esiintyvyys = {}
             esiintyvyys["\n"] = 0
-    
+
             for teksti in rivit:
                 for kirjain in teksti:
                     if kirjain in esiintyvyys:
@@ -115,8 +116,8 @@ class Huffman:
         jono1 = Jono()
         jono2 = Jono()
 
-        for i in range(0, len(kirjaimet)):
-            silmu = Silmu(kirjaimet[i], maarat[i])
+        for i, kirjain in enumerate(kirjaimet):
+            silmu = Silmu(kirjain, maarat[i])
             jono1.lisaaJonoon(silmu)
 
         while not (jono1.onTyhja() and jono2.pituusYksi()):
@@ -145,32 +146,32 @@ class Huffman:
         if puu.oikea:
             self.lisaaSanakirjaan(puu.oikea, merkki + "1")
 
-    def tulostaPuu(self, puu, merkki):
-        if puu.vasen:
-            self.tulostaPuu(puu.vasen, merkki + "0")
-        print(str(puu.kirjain) + " " + merkki)
-        if puu.oikea:
-            self.tulostaPuu(puu.oikea, merkki + "1")
-
-    def pura(self, polku_purettavaan, polku_purkusanakirjaan):
+    def pura(self, polku_purkusanakirjaan):
         """ Purkaa tiedoston.
+            Parametrit:
+                polku_purkusanakirjaan: Polku purettavan tiedoston sanakirjaan.
         """
-        tavut = open(polku_purettavaan, 'rb').read()
-        purkukirja = json.load(open(polku_purkusanakirjaan, 'r'))
+
+        with open(self.tiedosto, 'rb') as purettava:
+            tavut = purettava.read()
+        with open(polku_purkusanakirjaan, 'r') as sanakirja:
+            purkukirja = json.load(sanakirja)
+
         ekstranollat = int(purkukirja["nollat"])
         if "null" in purkukirja:
             purkukirja.pop("null")
         purkukirja.pop("nollat")
         purkukirja = {y:x for x,y in purkukirja.items()}
-        binaaristringi = ""
 
+        binaaristringi = ""
         for tavu in tavut:
             binaaristringi += "{0:b}".format(tavu).zfill(8)
         if ekstranollat != 0:
             binaaristringi = binaaristringi[:(-1*ekstranollat)]
-        i = 0
+
         tulos = ""
         bittijono = ""
+        i = 0
         while i < len(binaaristringi):
             bittijono += binaaristringi[i]
             if bittijono in purkukirja:
@@ -179,8 +180,9 @@ class Huffman:
                 bittijono = ""
             i += 1
 
-        polku_split = polku_purettavaan.split('/')
+        polku_split = self.tiedosto.split('/')
         tallennuspolku = '/'.join(polku_split[:-1]) + '/' + polku_split[-1] + "_purettu"
-        tallennus = open(tallennuspolku, 'w')
-        tallennus.write(tulos)
-        print("Tiedosto purettu, huraa!\nPurettu tiedosto on " + tallennuspolku)
+        with open(tallennuspolku, 'w') as tallennus:
+            tallennus.write(tulos)
+
+        return tallennuspolku

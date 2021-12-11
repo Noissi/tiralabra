@@ -17,6 +17,9 @@ class Lempelziv:
         self.tiedosto = tiedosto
         self.sanakirja = {}
 
+        self.nimi = Path(self.tiedosto).stem + ".lzw"
+        self.polku = "pakatut/"
+
         sanakirjan_koko = 256
         self.sanakirja = {chr(i): i for i in range(sanakirjan_koko)}
         self.purkukirjan_koko = 256
@@ -26,20 +29,19 @@ class Lempelziv:
         """ Ajaa Lempel-Ziv -pakkausalgoritmin.
 		"""
 
-        pakattu = self.pakkaa()
-        
-        return pakattu
+        self.pakkaa()
+
+        return  self.polku + self.nimi
 
     def pakkaa(self):
         """ Pakkaa tiedoston.
         """
 
-        tiedosto_nimi = Path(self.tiedosto).stem
-        with open("pakatut/" + tiedosto_nimi + ".lzw", "wb") as binaaritiedosto, \
+        with open(self.polku + self.nimi, "wb") as binaaritiedosto, \
                 open(self.tiedosto, "r") as tekstitiedosto:
 
             rivit = tekstitiedosto.readlines()
-    
+
             binaariteksti = ""
             sana = ""
             indeksit = []
@@ -53,19 +55,20 @@ class Lempelziv:
                         indeksit.append(self.sanakirja[sana])
                         self.sanakirja[merkkijono] = len(self.sanakirja)
                         sana = merkki
-            
+
             if len(binaariteksti)%8 != 0:
                 binaariteksti += "0000"
             tavupituus = len(binaariteksti)//8
             binaaritiedosto.write(int(binaariteksti, 2).to_bytes(tavupituus, 'big'))
 
-        return "pakatut/" + tiedosto_nimi + ".lzw"
+        return indeksit
 
-    def pura(self, polku_purettavaan):
+    def pura(self):
         """ Purkaa tiedoston.
         """
 
-        tavut = open(polku_purettavaan, 'rb').read()
+        with open(self.tiedosto, 'rb') as purettava:
+            tavut = purettava.read()
         binaaristringi = ""
 
         for tavu in tavut:
@@ -83,7 +86,7 @@ class Lempelziv:
             luku = int(binaaristringi[j:i], 2)
             if luku in self.purkukirja:
                 merkkijono2 = self.purkukirja[luku]
-            elif luku == self.purkukirjan_koko:
+            else:
                 merkkijono2 = merkkijono1 + merkkijono1[0]
             tulos += merkkijono2
 
@@ -94,8 +97,9 @@ class Lempelziv:
             j += 12
             i += 12
 
-        polku_split = polku_purettavaan.split('/')
+        polku_split = self.tiedosto.split('/')
         tallennuspolku = '/'.join(polku_split[:-1]) + '/' + polku_split[-1] + "_purettu"
-        tallennus = open(tallennuspolku, 'w')
-        tallennus.write(tulos)
-        print("Tiedosto purettu, huraa!\nPurettu tiedosto on " + tallennuspolku)
+        with open(tallennuspolku, 'w') as tallennus:
+            tallennus.write(tulos)
+
+        return tallennuspolku
