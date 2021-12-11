@@ -14,7 +14,7 @@ poetry install
 poetry run invoke start
 ```
 
-2. Tämän jälkeen sovellus kysyy, haluatko pakata vai purkaa tiedoston.'
+2. Tämän jälkeen sovellus kysyy, haluatko pakata vai purkaa tiedoston.
 ```
 Haluatko pakata vai purkaa tiedoston?
 1 = pakkaa
