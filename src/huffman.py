@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 from puu import Silmu
 from jono import Jono
 
@@ -27,15 +28,17 @@ class Huffman:
         esiintyvyys_jarj = sorted(esiintyvyys.items(), key=lambda x: x[1])
         puu = self.kirjaimetPuuhun(esiintyvyys_jarj)
         self.lisaaSanakirjaan(puu, "")
-        self.pakkaa()
+        pakattu = self.pakkaa()
+        
+        return pakattu
 
 		#self.tulostaPuu(puu, ":")
 
     def pakkaa(self):
         """ Pakkaa tekstitiedoston pienempään tilaan. Luo uuden binääritiedoston.
 		"""
-
-        with open("pakatut/pakkaus.hfm", "wb") as binaaritiedosto, \
+        tiedosto_nimi = Path(self.tiedosto).stem
+        with open("pakatut/" + tiedosto_nimi + ".hfm", "wb") as binaaritiedosto, \
                 open(self.tiedosto, "r") as tekstitiedosto:
 
             rivit = tekstitiedosto.readlines()
@@ -56,6 +59,8 @@ class Huffman:
         sanakirjatiedosto = open("pakatut/hfm_sanakirja.json", 'w')
         self.sanakirja["nollat"] = ekstranollat
         json.dump(self.sanakirja, sanakirjatiedosto)
+        
+        return "pakatut/" + tiedosto_nimi + ".hfm"
 
     def kirjaintenEsiintyvyys(self):
         """ Laskee kunkin kirjaimen esiintyvyyden annetussa tekstissä.

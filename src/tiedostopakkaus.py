@@ -1,33 +1,53 @@
 import os
+from pathlib import Path
 from huffman import Huffman
 from lempelziv import Lempelziv
 
 def main():
     if not os.path.exists('pakatut'):
         os.makedirs('pakatut')
+    if not os.path.exists('puretut'):
+        os.makedirs('puretut')
     
-    pakkaa_vai_pura = int(input("Haluatko pakata vai purkaa tiedoston?\n1=pakkaa\n2=pura\n"))
+    pakkaa_vai_pura = int(input("Haluatko pakata vai purkaa tiedoston?\n1 = pakkaa\n2 = pura\n"))
+    huffman_vai_lempel = int(input("Valittava algoritmi:\n1 = Huffman\n2 = Lempel-Ziw\n"))
     if pakkaa_vai_pura == 2:
-        huff_vai_lempel = pakkaa_vai_pura = int(input("Purkualgoritmi?\n1=Huffman\n2=Lempel-Ziv\n"))
-        polku_purettavaan = input("Anna polku purettavaan tiedostoon.\n")
-        if huff_vai_lempel == 2:
-            lempel = Lempelziv("pura")
-            lempel.pura(polku_purettavaan)
-        else:
-            polku_purkusanakirjaan = input("Anna polku purkusanakirjaan.\n")
-            huff = Huffman("pura")
-            huff.pura(polku_purettavaan, polku_purkusanakirjaan)
+        tiedosto = input("Anna polku purettavaan tiedostoon.\n")
+        purku(tiedosto, huffman_vai_lempel)
     else:
         tiedosto = input("Anna polku pakattavaan tiedostoon.\n")
-        huffman_vai_lempel = int(input("Aja huffman = 1, Aja lempel = 2\n"))
         pakkaus(tiedosto, huffman_vai_lempel)
 
 def pakkaus(tiedosto, kumpi):
     if kumpi == 1:
         huffman = Huffman(tiedosto)
-        huffman.aja()
+        pakattu = huffman.aja()
     else:
-        lempel_humpel = Lempelziv(tiedosto)
-        lempel_humpel.aja()
+        lempelziw = Lempelziv(tiedosto)
+        pakattu = lempelziw.aja()
 
+    koko1 = tiedoston_koko(tiedosto)
+    koko2 = tiedoston_koko(pakattu)
+    print("Pakattavan tiedoston koko: " + str(koko1) + " tavua.\nPakatun tiedoston koko: " + str(koko2) + " tavua.\nPakkauskoko pieneni " + str(pienentyma(koko1, koko2)) + "%.")
+
+def purku(tiedosto, kumpi):
+    if kumpi == 2:
+        lempelziw = Lempelziv("pura")
+        purettu = lempelziw.pura(tiedosto)
+    else:
+        polku_purkusanakirjaan = input("Anna polku purkusanakirjaan.\n")
+        huffman = Huffman("pura")
+        purettu = huffman.pura(tiedosto, polku_purkusanakirjaan)
+
+    koko1 = tiedoston_koko(tiedosto)
+    koko2 = tiedoston_koko(purettu)
+    print("Pakattavan tiedoston koko: " + str(koko1) + " tavua.\nPakatun tiedoston koko: " + str(koko2) + " tavua.\nPakkauskoko pieneni " + str(pienentyma(koko1, koko2)*-1) + "%.")
+    
+def tiedoston_koko(tiedosto):
+    koko = Path(tiedosto).stat().st_size
+    return koko
+
+def pienentyma(luku1, luku2):
+    pienentyma = (luku1-luku2) * 100 / luku1
+    return round(pienentyma)
 main()

@@ -1,4 +1,4 @@
-import numpy as np
+from pathlib import Path
 
 class Lempelziv:
     """ Luokka Lempel-Ziv -tiedostonpakkausalgoritmille.
@@ -26,14 +26,16 @@ class Lempelziv:
         """ Ajaa Lempel-Ziv -pakkausalgoritmin.
 		"""
 
-        indeksit = self.pakkaa()
-        return indeksit
+        pakattu = self.pakkaa()
+        
+        return pakattu
 
     def pakkaa(self):
         """ Pakkaa tiedoston.
         """
 
-        with open("pakatut/pakkaus.lzw", "wb") as binaaritiedosto, \
+        tiedosto_nimi = Path(self.tiedosto).stem
+        with open("pakatut/" + tiedosto_nimi + ".lzw", "wb") as binaaritiedosto, \
                 open(self.tiedosto, "r") as tekstitiedosto:
 
             rivit = tekstitiedosto.readlines()
@@ -57,7 +59,7 @@ class Lempelziv:
             tavupituus = len(binaariteksti)//8
             binaaritiedosto.write(int(binaariteksti, 2).to_bytes(tavupituus, 'big'))
 
-        return indeksit
+        return "pakatut/" + tiedosto_nimi + ".lzw"
 
     def pura(self, polku_purettavaan):
         """ Purkaa tiedoston.
