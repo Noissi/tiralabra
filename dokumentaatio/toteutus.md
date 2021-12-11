@@ -6,7 +6,7 @@ Tiedostossa huffman.py toteutetaan Huffmanin algoritmi Huffman-luokan avulla. Ti
     
 ### Vertailu
 
-Vertailu suoritetaan tiedostossa vertailu.py.
+Vertailu suoritetaan tiedostossa vertailu.py. Vertailussa tarkastellaan molempien algoritmien suorituskykyä erikokoisilla esimerkkitekstitiedostoilla. Näin saadaan näkyviin algoritmien erot ja arvioitua eri kokoisille tekstitiedostoille optimaalisinta pakkausalgoritmia näistä kahdesta vaihtoehdosta.
 
 ### Puutteet ja parannusehdotukset
 
