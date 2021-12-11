@@ -6,7 +6,7 @@ Testauksessa tullaan huomioimaan, että pakatun tiedoston koko on odotusten muka
 
 ### Testikattavuus
 
-Sovelluksen haarautumakattavuus on 85%.
+Sovelluksen haarautumakattavuus on 91%.
 
 ![](./kuvat/testikattavuus.png)
 
