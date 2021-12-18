@@ -108,7 +108,7 @@ class TestHuffman(unittest.TestCase):
 		self.pakkaus2.pakkaa()
 
 	def test_pura_tiedosto_on_olemassa(self):
-		self.purku1.pura("pakatut/hfm_sanakirja.json")
+		self.purku1.pura()
 		on_olemassa = os.path.exists("pakatut/abc.hfm_purettu")
 		self.assertEqual(True, on_olemassa)
 

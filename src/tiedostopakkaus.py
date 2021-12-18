@@ -34,8 +34,7 @@ def pakkaus(tiedosto, kumpi):
 def purku(tiedosto, kumpi):
     if kumpi == 1:
         huffman = Huffman(tiedosto)
-        polku_purkusanakirjaan = input("Anna polku purkusanakirjaan.\n")
-        purettu = huffman.pura(polku_purkusanakirjaan)
+        purettu = huffman.pura()
     else:
         lempelziv = Lempelziv(tiedosto)
         purettu = lempelziv.pura()
@@ -50,7 +49,7 @@ def tiedoston_koko(tiedosto):
     return koko
 
 def pienentyma(luku1, luku2):
-    prosentti = (luku1-luku2) * 100 / luku1
+    prosentti = luku2 * 100 / luku1
     return round(prosentti)
 
 if __name__ == "__main__":

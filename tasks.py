@@ -25,4 +25,6 @@ def lint(ctx):
 def format(ctx):
     ctx.run("autopep8 --in-place --recursive src")
 
-# ...
+@task
+def vertaa(ctx):
+    ctx.run("python3 src/vertailu.py")

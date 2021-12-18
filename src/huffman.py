@@ -55,11 +55,18 @@ class Huffman:
             else:
                 ekstranollat = 0
             tavupituus = len(binaariteksti) // 8
+            self.sanakirja["nollat"] = ekstranollat
+            sanakirja_json = json.dumps(self.sanakirja).encode(encoding='utf-8', errors='strict')
+            koko = len(sanakirja_json)
+            binaaritiedosto.write(koko.to_bytes(2, byteorder='big', signed=False))
+            binaaritiedosto.write(sanakirja_json)
             binaaritiedosto.write(int(binaariteksti, 2).to_bytes(tavupituus, 'big'))
 
+        '''
         with open("pakatut/hfm_sanakirja.json", 'w') as sanakirjatiedosto:
             self.sanakirja["nollat"] = ekstranollat
             json.dump(self.sanakirja, sanakirjatiedosto)
+        '''
 
         return binaariteksti
 
@@ -146,16 +153,16 @@ class Huffman:
         if puu.oikea:
             self.lisaaSanakirjaan(puu.oikea, merkki + "1")
 
-    def pura(self, polku_purkusanakirjaan):
+    def pura(self):
         """ Purkaa tiedoston.
-            Parametrit:
-                polku_purkusanakirjaan: Polku purettavan tiedoston sanakirjaan.
         """
 
         with open(self.tiedosto, 'rb') as purettava:
+            koko_bin = purettava.read(2)
+            koko_int = int.from_bytes(koko_bin, "big", signed=False)
+            purkukirja_json = purettava.read(koko_int).decode(encoding='utf-8', errors='strict')
+            purkukirja = json.loads(purkukirja_json)
             tavut = purettava.read()
-        with open(polku_purkusanakirjaan, 'r') as sanakirja:
-            purkukirja = json.load(sanakirja)
 
         ekstranollat = int(purkukirja["nollat"])
         if "null" in purkukirja:
