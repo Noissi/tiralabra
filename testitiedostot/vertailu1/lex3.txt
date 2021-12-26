@@ -1,0 +1,500 @@
+Laki liikenteen palveluista
+
+Tätä lakia sovelletaan liikenteen palveluihin, niihin liittyviin henkilölupiin sekä liikenneasioiden rekisteriin.
+
+Tätä lakia sovelletaan palveluntarjoajaan, jolla on toimipaikka Suomessa tai joka on muuten Suomen oikeudenkäytön piirissä. Lisäksi lakia sovelletaan kuljetuspalvelun tarjoajaan, jonka liikennöimän palvelun alku- tai loppupää on Suomessa tai palvelu kulkee Suomen kautta.
+
+Tätä lakia sovelletaan 120 §:n 2 kohdassa tarkoitetun EASA-asetuksen 2 artiklan 8 kohdassa tarkoitettujen ilma-alusluokkien lentotoimintaan. (26.6.2020/535)
+2 § (4.5.2018/301)
+Yleiset määritelmät (29.3.2019/371)
+
+Tässä laissa tarkoitetaan:
+
+1) kuljetuspalvelulla henkilöiden tai tavaroiden kuljettamista ammattimaisesti;
+
+2) välityspalvelulla kuljetusten välittämistä korvausta vastaan, ei kuitenkaan palvelua, jossa välitetään vain palveluntarjoajan omia kuljetuksia, eikä matkapalveluyhdistelmistä annetun lain (901/2017) soveltamisalaan kuuluvia matkapaketteja tai yhdistettyjä matkajärjestelyjä;
+
+3) liikennepalvelulla julkista tai yksityistä liikenteeseen liittyvää palvelua ja palveluyhdistelmää, jota tarjotaan yleisölle tai yksityiseen käyttöön;
+
+4) liikkumispalvelulla liikennepalvelua ja siihen välittömästi liittyvää välityspalvelua, tietopalvelua ja pysäköintipalvelua ja muuta tukipalvelua;
+
+5) yhdistämispalvelulla matkaketjujen ja muiden palvelukokonaisuuksien muodostamista korvausta vastaan yhdistelemällä eri palveluntarjoajien liikkumispalveluja, ei kuitenkaan matkapalveluyhdistelmistä annetun lain soveltamisalaan kuuluvia matkapaketteja tai yhdistettyjä matkajärjestelyjä;
+
+6) ETA-valtiolla Euroopan talousalueeseen kuuluvaa valtiota;
+
+7) henkilöluvalla sellaista luonnolliselle henkilölle myönnettävää henkilökohtaista lupaa, pätevyyttä, lisäpätevyyttä, kelpuutusta, kelpoisuutta, oikeutta kuljettaa liikennevälinettä ja hyväksyntää, jonka olemassaolo voidaan todentaa lupakirjalla, pätevyyskirjalla, lisäpätevyystodistuksella, kelpoisuustodistuksella, tunnustamista koskevalla todistuksella tai muulla vastaavalla sähköisellä tai paperimuotoisella asiakirjalla;
+
+8) toiminnanharjoittajaluvalla luvanvaraisen pääsääntöisesti ammattimaisen toiminnan harjoittamiseen oikeuttavaa toimilupaa tai muuta vastaavaa hyväksyntää;
+
+9) asiakirjalla sähköistä tai paperimuodossa olevaa asiakirjaa; (30.12.2020/1256)
+
+10) liikenteen ohjaus- ja hallintapalvelulla tie-, rautatie-, lento- ja alusliikenteen ohjausta, hallintaa ja varmistusta; palvelulle on ominaista, että se toimii vuorovaikutuksessa liikenteen kanssa ja reagoi muuttuviin liikennetilanteisiin; ja (30.12.2020/1256)
+
+11) hyväksymispäätöksellä viranomaisen tekemää päätöstä, jolla viranomaisen hyväksymistä edellyttävän toiminnan harjoittaminen on hyväksytty. (30.12.2020/1256)
+II OSA
+LIIKENNEMARKKINAT
+2 luku (30.12.2020/1256)
+Luvanvarainen toiminta tieliikenteessä
+3 § (30.12.2019/1505)
+Henkilöiden ja tavaroiden kuljettaminen tiellä
+
+Henkilöiden tai tavaroiden kuljettamiseen tiellä tulonhankkimistarkoituksessa korvausta vastaan (ammattimainen kuljettaminen tiellä) tarvitaan lupa. Maantieliikenteen harjoittajan ammatin harjoittamisen edellytyksiä koskevista yhteisistä säännöistä ja neuvoston direktiivin 96/26/EY kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 1071/2009, jäljempänä EU:n liikenteenharjoittaja-asetus, tarkoitettu lupa tarvitaan:
+
+1) ammattimaiseen henkilöiden kuljettamiseen tiellä ajoneuvolaissa (82/2021) tarkoitetulla linja-autolla (henkilöliikennelupa); tai (15.1.2021/91)
+
+2) ammattimaiseen tavaran kuljettamiseen tiellä ajoneuvolla tai ajoneuvoyhdistelmällä, jonka suurin sallittu kokonaismassa on yli 3 500 kiloa (tavaraliikennelupa).
+
+Ilman henkilöliikennelupaa saa kuitenkin:
+
+1) suorittaa kuljetuksia konsernin, siihen verrattavan yhtymän tai julkisyhteisön sisäisiä henkilökuljetuksia niiden hallinnassa olevilla ajoneuvoilla; tai
+
+2) kunnan tai muun julkisyhteisön järjestämiin sosiaali- ja terveyspalveluihin kuuluvana kuljettaa henkilöitä sen hallinnassa olevalla ajoneuvolla kuljetuspalvelujen saajilta perittäväksi säädettyä asiakasmaksua vastaan.
+
+Ilman tavaraliikennelupaa saa kuitenkin Suomen sisäisissä kuljetuksissa kuljettaa tavaraa traktorilla, jonka suurin sallittu nopeus on enintään 60 kilometriä tunnissa. Tavaraa saa kuljettaa myös henkilöliikenneluvan haltija linja-autolla. Lisäksi valtioneuvoston asetuksella voidaan vapauttaa luvanvaraisuudesta muu sellainen Suomen sisäinen tavaran kuljettaminen, jolla on kuljetusmarkkinoihin vain vähäinen vaikutus kuljetettavien tavaroiden luonteen tai lyhyen kuljetusmatkan vuoksi.
+
+Muualla kuin Suomessa rekisteröityjen ajoneuvojen tai ulkomaalaisen yrityksen Suomesta vuokraamien ajoneuvojen oikeudesta kuljettaa tavaraa tai henkilöitä ammattimaisesti Suomessa ja suomalaisten ajoneuvojen oikeudesta saada tarvittaessa toiseen valtioon kuljetuslupa säädetään 3 luvussa. (30.12.2020/1256)
+4 § (9.4.2021/299)
+Taksiliikenne
+
+Ammattimaiseen henkilöiden kuljettamiseen tiellä ja näiden palvelujen tarjoamiseen yleisölle ajoneuvolaissa tarkoitetulla henkilöautolla, pakettiautolla, kuorma-autolla, kolmipyörällä, kevyellä nelipyörällä tai raskaalla nelipyörällä (taksiliikenne) tarvitaan taksiliikennelupa tai henkilö- tai tavaraliikennelupa. Henkilö- tai tavaraliikenneluvan haltijan on tehtävä taksiliikenteen harjoittamisesta ilmoitus Liikenne- ja viestintävirastolle.
+
+Ilman taksiliikennelupaa saa kuitenkin suorittaa:
+
+1) konsernin, siihen verrattavan yhtymän tai julkisyhteisön sisäisiä henkilökuljetuksia niiden hallinnassa olevilla ajoneuvoilla;
+
+2) kunnan tai muun julkisyhteisön järjestämiin sosiaali- ja terveyspalveluihin kuuluvia henkilökuljetuksia sen hallinnassa olevalla henkilöautolla kuljetuspalvelujen saajilta perittäväksi säädettyä asiakasmaksua vastaan; tai
+
+3) koti- tai matkailupalveluyrityksen kuljetuksia, jotka ovat osa yrityksen asiakkaille tarjoamaa palvelukokonaisuutta ja tapahtuvat palveluyrityksen hallinnassa olevalla ajoneuvolla.
+
+5 § (30.12.2019/1505)
+Henkilö- ja tavaraliikenneluvan myöntäminen
+
+Liikenne- ja viestintävirasto myöntää hakemuksesta henkilöliikenneluvan ja tavaraliikenneluvan luonnolliselle henkilölle:
+
+1) joka on täysi-ikäinen, jonka toimintakelpoisuutta ei ole holhoustoimesta annetun lain (442/1999) 18 §:n nojalla rajoitettu ja jolle ei ole saman lain 8 §:n 1 momentin nojalla määrättyä edunvalvojaa;
+
+2) joka täyttää EU:n liikenteenharjoittaja-asetuksen 4 ja 6-8 artiklassa säädetyt maantieliikenteen harjoittajan ammatin harjoittamista koskevat vaatimukset;
+
+3) jota tai jonka määräämisvallassa arvopaperimarkkinalain (746/2012) 2 luvun 4 §:ssä tarkoitetulla tavalla olevaa yhteisöä ei ole asetettu konkurssiin sen toimiessa henkilö-, taksi- tai tavaraliikennelupaa vaativalla toimialalla kahden viimeisimmän vuoden aikana;
+
+4) jolla ei ole veroihin, lakisääteisiin eläke-, tapaturma- tai työttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien velvollisuuksien laiminlyöntejä eikä muita ulosotossa olevia velkoja, jotka ovat hänen maksukykyynsä nähden vähäistä suurempia, eikä velkoja, jotka on palautettu ulosotosta varattomuustodistuksin;
+
+5) jota ei ole määrätty liiketoimintakieltoon eikä väliaikaiseen liiketoimintakieltoon;
+
+6) jota ei ole lainvoimaisella tuomiolla todettu syylliseksi tahallisesti tai törkeästä huolimattomuudesta tehtyyn työsuhteeseen perustuvien, määrältään ja perusteeltaan selvien saatavien maksamisen laiminlyöntiin kahden viimeisimmän vuoden aikana;
+
+7) jos 3-6 kohdassa tarkoitettu tai siihen välittömästi verrattavissa oleva aikaisempi toiminta ei osoita hakijaa ilmeisen sopimattomaksi harjoittamaan tässä laissa tarkoitettua luvanvaraista toimintaa.
+
+Liikenne- ja viestintävirasto myöntää hakemuksesta henkilöliikenneluvan ja tavaraliikenneluvan oikeushenkilölle:
+
+1) joka täyttää EU:n liikenteenharjoittaja-asetuksen 4 ja 6-8 artiklassa säädetyt maantieliikenteen harjoittajan ammatin harjoittamista ja ammatillista pätevyyttä koskevat vaatimukset;
+
+2) jota tai jonka Harmaan talouden selvitysyksiköstä annetun lain (1207/2010) 2 §:ssä tarkoitettua organisaatiohenkilöä taikka näiden määräämisvallassa arvopaperimarkkinalain 2 luvun 4 §:ssä tarkoitetulla tavalla olevaa yhteisöä ei ole asetettu konkurssiin sen toimiessa henkilö-, taksi- tai tavaraliikennelupaa vaativalla toimialalla kahden viimeisimmän vuoden aikana;
+
+3) jolla ei ole veroihin, lakisääteisiin eläke-, tapaturma- tai työttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien velvollisuuksien laiminlyöntejä eikä muita ulosotossa olevia velkoja, jotka ovat hakijan maksukykyyn nähden vähäistä suurempia, eikä velkoja, jotka on palautettu ulosotosta varattomuustodistuksin;
+
+4) jonka toimitusjohtajaa tai vastuunalaista yhtiömiestä ei ole määrätty liiketoimintakieltoon eikä väliaikaiseen liiketoimintakieltoon;
+
+5) jota ei ole lainvoimaisella tuomiolla todettu syylliseksi tahallisesti tai törkeästä huolimattomuudesta tehtyyn työsuhteeseen perustuvien, määrältään ja perusteeltaan selvien saatavien maksamisen laiminlyöntiin kahden viimeisimmän vuoden aikana;
+
+6) jos tämän momentin 2-5 kohdassa tarkoitettu tai siihen välittömästi verrattavissa oleva aikaisempi toiminta ei osoita hakijaa ilmeisen sopimattomaksi harjoittamaan tässä laissa tarkoitettua luvanvaraista toimintaa.
+
+Sen lisäksi, mitä 1 ja 2 momentissa säädetään, henkilö- ja tavaraliikenneluvan myöntämisen edellytyksenä on, että luvanhakijan nimeämä liikenteestä vastaava henkilö täyttää EU:n liikenteenharjoittaja-asetuksen 4, 6 ja 8 artiklassa säädetyt vaatimukset sekä tämän pykälän 1 momentin 5 kohdassa säädetyt edellytykset. Lisäksi luvanhakijana olevan yrityksen toimitusjohtajan ja vastuunalaisten yhtiömiesten on oltava 8 §:ssä tarkoitetulla tavalla hyvämaineisia. (30.12.2020/1256)
+
+Liikenne- ja viestintävirasto myöntää maanteiden kansainvälisen tavaraliikenteen markkinoille pääsyä koskevista yhteisistä säännöistä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1072/2009 (EU:n tavaraliikennelupa-asetus) 5 artiklassa tarkoitetun kuljettajatodistuksen.
+
+Ahvenanmaan maakunnan hallituksen myöntämä lupa henkilöiden ja tavaroiden kuljettamiseen oikeuttaa tällaiseen kuljettamiseen myös Ahvenanmaan ja muun Suomen välillä.
+6 §
+Taksiliikenneluvan myöntäminen
+
+Liikenne- ja viestintävirasto myöntää hakemuksesta taksiliikenneluvan luonnolliselle henkilölle: (23.11.2018/984)
+
+1) joka on täysi-ikäinen, jonka toimintakelpoisuutta ei ole holhoustoimesta annetun lain 18 §:n nojalla rajoitettu ja jolla ei ole saman lain 8 §:n 1 momentin nojalla määrättyä edunvalvojaa;
+
+2) joka on 8 §:ssä tarkoitetulla tavalla hyvämaineinen; (29.3.2019/371)
+
+3) jonka tässä laissa tarkoitettua lupaa ei ole peruutettu 242 §:n 2 momentin nojalla viimeksi kuluneen vuoden aikana; (29.3.2019/371)
+
+4) jota tai jonka määräämisvallassa arvopaperimarkkinalain 2 luvun 4 §:ssä tarkoitetulla tavalla olevaa yhteisöä ei ole asetettu konkurssiin sen toimiessa henkilö-, taksi- tai tavaraliikennelupaa vaativalla toimialalla kahden viimeisimmän vuoden aikana;
+
+5) jolla ei ole veroihin, lakisääteisiin eläke-, tapaturma- tai työttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien velvollisuuksien laiminlyöntejä eikä muita ulosotossa olevia velkoja, jotka ovat hänen maksukykyynsä nähden vähäistä suurempia, eikä velkoja, jotka on palautettu ulosotosta varattomuustodistuksin;
+
+6) jota ei ole määrätty liiketoimintakieltoon eikä väliaikaiseen liiketoimintakieltoon;
+
+7) jota ei ole lainvoimaisella tuomiolla todettu syylliseksi tahallisesti tai törkeästä huolimattomuudesta tehtyyn työsuhteeseen perustuvien, määrältään ja perusteeltaan selvien saatavien maksamisen laiminlyöntiin,
+
+8) jos 3-7 kohdassa tarkoitettu tai siihen välittömästi verrattavissa oleva aikaisempi toiminta ei osoita hakijaa ilmeisen sopimattomaksi harjoittamaan tässä laissa tarkoitettua luvanvaraista toimintaa; (9.4.2021/299)
+
+9) jolle on annettu yritys- ja yhteisötunnus yritys- ja yhteisötietolain (244/2001) 9 §:n mukaisesti; (9.4.2021/299)
+
+10) joka on hyväksytysti suorittanut 6 a §:n 3 momentissa tarkoitetun yrittäjäkokeen tai ammattitaitoa osoittavan kumotussa taksiliikennelaissa (217/2007) säädetyn taksiliikenteen yrittäjäkurssin sekä yrittäjäkokeen tai joka on muutoin täyttänyt taksiliikennelaissa säädetyn ammatillisen pätevyyden vaatimuksen. (9.4.2021/299)
+
+Liikenne- ja viestintävirasto myöntää hakemuksesta taksiliikenneluvan oikeushenkilölle: (23.11.2018/984)
+
+1) joka on 9 §:ssä tarkoitetulla tavalla hyvämaineinen; (29.3.2019/371)
+
+2) jonka liikennelupaa ei ole peruutettu 242 §:n 2 momentin nojalla viimeksi kuluneen vuoden aikana; (29.3.2019/371)
+
+3) jota tai jonka Harmaan talouden selvitysyksiköstä annetun lain 2 §:ssä tarkoitettua organisaatiohenkilöä taikka näiden määräämisvallassa arvopaperimarkkinalain 2 luvun 4 §:ssä tarkoitetulla tavalla olevaa yhteisöä ei ole asetettu konkurssiin sen toimiessa henkilö-, taksi- tai tavaraliikennelupaa vaativalla toimialalla kahden viimeisimmän vuoden aikana;
+
+4) jolla ei ole veroihin, lakisääteisiin eläke-, tapaturma- tai työttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien velvollisuuksien laiminlyöntejä eikä muita ulosotossa olevia velkoja, jotka ovat hakijan maksukykyyn nähden vähäistä suurempia, eikä velkoja, jotka on palautettu ulosotosta varattomuustodistuksin;
+
+5) jonka toimitusjohtajaa tai vastuunalaista yhtiömiestä ei ole määrätty liiketoimintakieltoon eikä väliaikaiseen liiketoimintakieltoon;
+
+6) jota ei ole lainvoimaisella tuomiolla todettu syylliseksi tahallisesti tai törkeästä huolimattomuudesta tehtyyn työsuhteeseen perustuvien, määrältään ja perusteeltaan selvien saatavien maksamisen laiminlyöntiin;
+
+7) jos tämän momentin 2-6 kohdassa tarkoitettu tai siihen välittömästi verrattavissa oleva aikaisempi toiminta ei osoita hakijaa ilmeisen sopimattomaksi harjoittamaan tässä laissa tarkoitettua luvanvaraista toimintaa; (9.4.2021/299)
+
+8) jonka 7 §:ssä tarkoitettu liikenteestä vastaava henkilö on hyväksytysti suorittanut 6 a §:n 3 momentissa tarkoitetun yrittäjäkokeen tai ammattitaitoa osoittavan taksiliikennelaissa säädetyn taksiliikenteen yrittäjäkurssin sekä yrittäjäkokeen tai joka on muutoin täyttänyt taksiliikennelaissa säädetyn ammatillisen pätevyyden vaatimuksen. (9.4.2021/299)
+
+Sen lisäksi, mitä 1 ja 2 momentissa säädetään, taksiliikenneluvan myöntämisen edellytyksenä on, että luvanhakijalla on tosiasiallinen ja pysyvä toimipaikka Suomessa ja luvanhakijan nimeämä liikenteestä vastaava henkilö on 8 §:ssä tarkoitetulla tavalla hyvämaineinen. Myös luvanhakijana olevan yrityksen toimitusjohtajan ja vastuunalaisten yhtiömiesten on oltava 8 §:ssä tarkoitetulla tavalla hyvämaineisia. (9.4.2021/299)
+
+Ahvenanmaan maakunnan hallituksen myöntämä lupa taksiliikenteeseen oikeuttaa taksiliikenteeseen myös Ahvenanmaan ja muun Suomen välillä. (9.4.2021/299)
+6 a § (9.4.2021/299)
+Taksiliikenteen yrittäjäkoulutus ja yrittäjäkoe
+
+Taksiliikenteen yrittäjäkoulutuksen tulee sisältää opetusta taksiyrityksen kaupallisesta ja taloudellisesta johtamisesta, taksiyrittäjyyteen liittyvästä keskeisestä ajoneuvoja ja liikennettä koskevasta lainsäädännöstä sekä verotusta, kirjanpitoa, työllistämistä, palkkaa, sosiaaliturvaa, eläkkeitä ja vakuuttamista koskevasta lainsäädännöstä.
+
+Koulutuksen kesto on vähintään 21 tuntia.
+
+Koulutuksen jälkeen suoritettavaan yrittäjäkokeeseen tulee sisältyä kysymyksiä kaikista 1 momentissa tarkoitetuista asiakokonaisuuksista. Kokeen järjestänyt koulutusorganisaatio myöntää todistuksen kokeen hyväksytysti suorittaneelle henkilölle. Yrittäjäkokeeseen osallistuminen edellyttää, että henkilö on osallistunut yrittäjäkoulutukseen.
+
+Yrittäjäkokeen järjestämisestä ja valvonnasta vastaa yrittäjäkoulutuksen järjestävä koulutusorganisaatio, jolle Liikenne- ja viestintävirasto on myöntänyt 35 a §:ssä tarkoitetun hyväksynnän.
+
+Liikenne- ja viestintävirasto antaa tarkempia määräyksiä yrittäjäkoulutuksen ja -kokeen sisällöstä, toteutuksesta ja kokeen arvosteluperusteista.
+7 §
+Liikenteestä vastaava henkilö luvanvaraisessa tieliikenteessä (29.3.2019/371)
+
+Taksi-, henkilö- ja tavaraliikenneluvan haltijalla on oltava liikenteestä vastaava henkilö, joka tosiasiallisesti ja jatkuvasti johtaa yrityksen liikenteenharjoittamista ja edustaa yritystä, jollei EU:n liikenteenharjoittaja-asetuksesta muuta johdu. Konsernissa tai siihen verrattavassa yhtymässä voidaan sama henkilö nimetä useamman oikeushenkilön liikenteestä vastaavaksi henkilöksi.
+8 §
+Luonnollisen henkilön hyvä maine luvanvaraisessa tieliikenteessä (29.3.2019/371)
+
+Jollei EU:n liikenteenharjoittaja-asetuksen 6 artiklasta muuta johdu, liikenteestä vastaava henkilö tai luvanhakijana tai -haltijana oleva luonnollinen henkilö ei ole hyvämaineinen, jos: (9.4.2021/299)
+
+1) hänet on kahden viimeksi kuluneen vuoden aikana tuomittu vähintään neljästä työ- tai palkkasuhdetta, kirjanpitoa, verotusta, kiskontaa, liikenteen harjoittamista, liikenne- tai ajoneuvoturvallisuutta, ympäristönsuojelua tai muuta ammatillista vastuuta koskevien säännösten rikkomisesta taikka EU:n liikenteenharjoittaja-asetuksen 6 artiklan 1 kohdan b alakohdassa mainittujen säännösten rikkomisesta;
+
+2) hänelle on kahden viimeksi kuluneen vuoden aikana määrätty muita seuraamuksia kuin vankeutta tai sakkoa vähintään neljästä EU:n liikenteenharjoittaja-asetuksen 6 artiklan 1 kohdassa tarkoitetusta vakavasta rikkomuksesta; taikka
+
+3) hänet on kahden viimeksi kuluneen vuoden aikana tuomittu 1 tai 2 kohdassa tarkoitetusta teosta vankeusrangaistukseen taikka hänelle on määrätty sakkorangaistus tai muu seuraamus yhteensä vähintään neljästä 1 tai 2 kohdassa tarkoitetusta teosta. (4.5.2018/301)
+
+Liikenteestä vastaavaa henkilöä ja luvanhakijana tai -haltijana olevaa luonnollista henkilöä on kuitenkin pidettävä hyvämaineisena, jos 1 momentissa tarkoitetut teot eivät osoita hänen olevan ilmeisen sopimaton harjoittamaan ammattimaista liikennettä. Ilmeistä sopimattomuutta voi osoittaa: (9.4.2021/299)
+
+1) tekojen suuri määrä;
+
+2) teon vakavuus;
+
+3) teon suunnitelmallisuus;
+
+4) teon kohdistuminen kuljetuksen kohteeseen tai viranomaiseen;
+
+5) se, että teko on tehty ammattimaista liikennettä harjoitettaessa;
+
+6) se, että teolla on liikenneturvallisuutta heikentävä vaikutus;
+
+7) se, että teko muutoin osoittaa piittaamattomuutta henkilö- tai liikenneturvallisuudesta; tai
+
+8) se, että teko on jokin EU:n liikenteenharjoittaja-asetuksen liitteessä IV tarkoitetuista yhteisön sääntöjen vakavimmista rikkomuksista tai komission kyseisen asetuksen 6 artiklan 2 kohdan b alakohdan nojalla hyväksymässä luettelossa tarkoitettu vakava rikkomus. (4.5.2018/301)
+9 §
+Oikeushenkilön hyvä maine luvanvaraisessa tieliikenteessä (29.3.2019/371)
+
+Taksi-, henkilö- ja tavaraliikenneluvan hakijana tai luvanhaltijana oleva oikeushenkilö ei ole hyvämaineinen, jos: (29.3.2019/371)
+
+1) se on viiden viimeksi kuluneen vuoden aikana tuomittu yhteisösakkoon; tai
+
+2) sen toimitusjohtaja tai vastuunalainen yhtiömies ei täytä 8 §:ssä säädettyä hyvän maineen vaatimusta. (29.3.2019/371)
+
+Oikeushenkilöä on kuitenkin pidettävä hyvämaineisena, jos 1 momentin 1 kohdassa tarkoitetun tuomion perustana oleva teko ei osoita hakijan olevan 8 §:n 2 momentissa tarkoitetulla tavalla ilmeisen sopimaton harjoittamaan ammattimaista liikennettä. (29.3.2019/371)
+10 §
+Taksi-, henkilö- ja tavaraliikenneluvan voimassaolo (29.3.2019/371)
+
+Taksi-, henkilö- ja tavaraliikenneluvat ovat voimassa 10 vuotta myöntämispäivämäärästä.
+11 §
+Taksi-, henkilö- ja tavaraliikenneluvan muuttaminen ja uusiminen (29.3.2019/371)
+
+Taksi-, henkilö- ja tavaraliikennelupaa voidaan muuttaa tai lupa uusia Liikenne- ja viestintävirastolle tehtävästä hakemuksesta. Luvan uusimiseen sovelletaan, mitä luvan myöntämisestä säädetään. Luvan muuttamisessa on huomioitava 5-9 §:ssä säädetyt luvan myöntämisen edellytykset siltä osin kuin niillä on vaikutusta luvan muuttamiseen. (29.3.2019/371)
+
+Jos luvan uusimista koskeva hakemus on pantu vireille viimeistään kuukautta ennen luvan viimeistä voimassaolopäivää, uusittavalla luvalla saa jatkaa liikennettä asian ratkaisemiseen saakka. (4.5.2018/301)
+
+Luvanhaltijan on viipymättä ilmoitettava Liikenne- ja viestintävirastolle luvan myöntämisen edellytyksissä tapahtuneista muutoksista. (9.4.2021/299)
+12 § (23.11.2018/984)
+Kuolinpesän oikeus jatkaa luvanvaraista tieliikennettä (29.3.2019/371)
+
+Jos taksi-, henkilö- tai tavaraliikenneluvan haltijana oleva luonnollinen henkilö kuolee, kuolinpesä saa jatkaa liikennettä enintään kuuden kuukauden ajan kuolinpäivästä, jos se kolmen kuukauden kuluessa kuolinpäivästä ilmoittaa tässä laissa säädetyt edellytykset täyttävän liikenteestä vastaavan henkilön Liikenne- ja viestintävirastolle.
+13 § (29.3.2019/371)
+Henkilö- ja tavaraliikenneluvan haltijan pitäminen riskiyrityksenä
+
+EU:n liikenteenharjoittaja-asetuksen 12 artiklassa tarkoitettuna riskiyrityksenä pidetään henkilö- ja tavaraliikenneluvan haltijaa, joka on tuomittu rangaistukseen tai jolle on määrätty seuraamuksia 8 §:n 1 momentissa tai 9 §:n 1 momentissa tarkoitetuista rikoksista tai rikkomuksista ja näiden tekojen määrä on mainittujen lainkohtien mukainen. Riskiyrityksenä pidetään myös henkilö- ja tavaraliikenneluvan haltijaa, jonka liikenteestä vastaava henkilö, toimitusjohtaja tai vastuunalainen yhtiömies on tuomittu rangaistukseen tai jonka liikenteestä vastaavalle henkilölle, toimitusjohtajalle tai vastuunalaiselle yhtiömiehelle on määrätty seuraamuksia 8 §:n 1 momentissa tarkoitetuista rikoksista tai rikkomuksista ja näiden tekojen määrä on mainitun lainkohdan mukainen.
+
+Henkilö- ja tavaraliikenneluvan haltija lakkaa olemasta riskiyritys, jos sitä tai sen liikenteestä vastaavaa henkilöä, toimitusjohtajaa ja vastuunalaista yhtiömiestä ei viimeksi kuluneen vuoden aikana ole tuomittu uusista rikoksista tai rikkomuksista tai jos rikosten ja rikkomusten kokonaismäärä on laskenut alle sen, mitä 8 §:n 1 momentissa tai 9 §:n 1 momentissa säädetään.
+14 §
+Tavarankuljetuksen tilaajan selvitysvelvollisuus
+
+Tässä pykälässä tarkoitetaan tavarankuljetuksen tilaajalla elinkeinonharjoittajaa, joka tilaa kuljetuksen ja joka on kaupparekisterilain (129/1979) 3 §:n 1 momentin mukaan velvollinen tekemään perusilmoituksen, sekä valtiota, kuntaa, kuntayhtymää, Ahvenanmaan maakuntaa, Ahvenanmaan maakunnan kuntaa ja kuntayhtymää, seurakuntaa, seurakuntayhtymää, muuta uskonnollista yhdyskuntaa, muuta julkisoikeudellista oikeushenkilöä ja vastaavaa ulkomaista toimijaa.
+
+Tavarankuljetuksen tilaajan tai tämän edustajan on ennen kuljetuksesta sopimista selvitettävä, että:
+
+1) kuljetuksen suorittajalla on tarvittava lupa tai oikeus suorittaa kuljetus EU:n tavaraliikennelupa-asetuksessa tarkoitettuna kabotaasiliikenteenä; (4.5.2018/301)
+
+2) kuljetuksen suorittaja on merkitty arvonlisäverolain (1501/1993) mukaiseen arvonlisäverovelvollisten rekisteriin, jos se on siihen velvollinen kyseisestä myynnistä.
+
+Sopimusta ei saa tehdä, jos 2 momentissa säädetyt edellytykset eivät täyty. Sopimusta ei saa myöskään tehdä, jos kuljetuksen tilaaja tietää tai hänen pitäisi tietää, ettei sopimuksen toinen osapuoli aio täyttää lakisääteisiä velvoitteitaan työnantajana.
+
+Edellä 2 momentissa tarkoitettua selvitystä ei tarvitse tehdä, jos:
+
+1) sopimuspuoli on valtio, kunta, kuntayhtymä, Ahvenanmaan maakunta, Ahvenanmaan maakunnan kunta tai kuntayhtymä, seurakunta, seurakuntayhtymä, Kansaneläkelaitos tai Suomen Pankki;
+
+2) edellisen selvityksen tekemisestä saman sopimuspuolen kanssa on kulunut vähemmän kuin kolme kuukautta; tai
+
+3) tilaajan ja sopimuspuolen sopimussuhdetta voidaan pitää vakiintuneena aikaisempien kuluvana vuonna tapahtuneiden kuljetusten johdosta, jolloin selvitykset on tehtävä kalenterivuosittain.
+
+Tilaajan tai tämän edustajan ei myöskään tarvitse tehdä 2 momentissa tarkoitettua selvitystä, jos sovittu kuljetushinta ilman arvonlisäveroa on vähemmän kuin 500 euroa kolmen kuukauden aikana tehdyissä kuljetussopimuksissa tai jos 3 §:n 3 momentin mukaisten Suomen sisäisten kuljetusten alihankintasopimuksen vastikkeen arvo ilman arvonlisäveroa on enintään 10 000 euroa. (29.3.2019/371)
+15 §
+Välityspalvelun tarjoajan selvitys- ja ilmoitusvelvollisuus
+
+Välityspalvelun tarjoajan on varmistettava, että kuljetuksesta vastaavalla kuljetustoiminnan harjoittajalla on tarvittava taksi-, henkilö- tai tavaraliikennelupa.
+
+Välityspalvelun tarjoajan tai sen Suomessa olevan edustajan on ilmoitettava Liikenne- ja viestintävirastolle vuosittain tammikuun loppuun mennessä kokonaissummat sen tiedossa olevista korvauksista, jotka kuljetuspalvelun tarjoajat ovat saaneet sen välittämistä kuljetuksista, ellei kyseinen tieto ole viranomaisen saatavilla Verohallinnolle tehdyn vastaavan ilmoituksen perusteella. (23.11.2018/984)
+15 a § (9.4.2021/299)
+Taksimatkasta kerättävät tiedot
+
+Henkilöliikennettä tarjoava luvanhaltija vastaa ja huolehtii siitä, että taksiliikenteeseen käytettävässä ajoneuvossa käytetään taksamittaria, joka täyttää mittauslaitelain (707/2011) vaatimukset, tai muuta laitetta tai järjestelmää, joka luotettavasti kerää jokaisesta taksimatkasta sähköisessä muodossa seuraavat tiedot:
+
+1) yrittäjän yksilöintitiedot;
+
+2) ajoneuvon yksilöintitiedot;
+
+3) ajon suorittaneen kuljettajan yksilöintitiedot;
+
+4) matkan ajankohta, pituus ja ajallinen kesto;
+
+5) matkan hinta- ja maksutapatiedot.
+
+Henkilöliikennettä tarjoava luvanhaltija vastaa siitä, että 1 momentin mukaisia tietoja säilytetään siten, ettei niiden sisältöä voi muuttaa, ja että niitä voi vaikeuksitta tarkastella ja tarvittaessa tulostaa selväkielisessä muodossa. Tiedot tulee säilyttää kolmannen osapuolen hallinnoimassa tietokannassa, johon kerätyt tiedot siirtyvät automaattisesti.
+
+Liikenne- ja viestintävirasto antaa tarkemmat tekniset määräykset 1 momentissa tarkoitetusta muusta laitteesta ja järjestelmästä sekä niillä kerättyjen tietojen säilyttämisestä.
+
+Tietojen säilytystavasta säädetään kirjanpitolain (1336/1997) 2 luvun 7 §:n 1 momentissa ja 9 §:ssä. Tietojen säilytysajasta säädetään kirjanpitolain 2 luvun 10 §:n 2 momentissa, arvonlisäverolain 209 n §:ssä ja verotusmenettelystä annetun lain (1558/1995) 12 §:ssä.
+16 § (29.3.2019/371)
+Rekisteröitymisvelvollisuus tavaraliikenteessä
+
+Palveluntarjoajan, joka harjoittaa ammattimaista tavaran kuljettamista tiellä ajoneuvolla tai ajoneuvoyhdistelmällä, jonka suurin sallittu kokonaismassa on yli 2 000 kiloa ja enintään 3 500 kiloa, on rekisteröidyttävä Liikenne- ja viestintävirastoon. Rekisteröitymisvelvollisuutta ei kuitenkaan ole, jos toimintaan ei vaadita lupaa 3 §:n 3 momentin nojalla.
+17 §
+Liikenteessä käytettävä ajoneuvo
+
+Taksi-, henkilö- ja tavaraliikenneluvan haltijan ja 16 §:ssä tarkoitetun palveluntarjoajan on huolehdittava siitä, että sen liikenteessä käyttämä moottorikäyttöinen ajoneuvo on rekisteröity 216 §:ssä tarkoitettuun liikenneasioiden rekisteriin ja sen käyttötarkoitukseksi on ilmoitettu luvanvarainen käyttö. (29.3.2019/371)
+
+Mitä 1 momentissa säädetään, ei koske kuljetuksiin käytetyn ajoneuvon lyhytaikaisen tilapäisen rikkoutumisen vuoksi käytössä olevaa korvaavaa ajoneuvoa.
+18 § (30.12.2020/1256)
+Henkilö- ja tavaraliikenneluvan haltijan varautumisvelvollisuus
+
+Henkilöliikenneluvan haltijan, jolla on liikennekäytössä enemmän kuin 15 linja-autoa, tai tavaraliikenneluvan haltijan, jolla on liikennekäytössä enemmän kuin 15 ajoneuvoa tai ajoneuvoyhdistelmää, jonka suurin sallittu kokonaismassa on yli 3 500 kiloa, on varauduttava normaaliolojen häiriötilanteisiin ja poikkeusoloihin ja huolehdittava siitä, että yrityksen toiminta jatkuu mahdollisimman häiriöttömästi myös valmiuslaissa (1552/2011) tarkoitetuissa poikkeusoloissa ja normaaliolojen häiriötilanteissa. Luvanhaltijan on arvioitava toimintansa jatkuvuutta vaarantavat riskit ja osallistuttava toimintansa edellyttämällä tavalla valmiussuunnitteluun. Luvanhaltijan on laadittava valmiussuunnitelma, jonka laadinnassa on otettava huomioon yrityksen harjoittaman henkilö- tai tavaraliikenteen erityispiirteet.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä 1 momentissa tarkoitetusta normaaliolojen häiriötilanteisiin ja poikkeusoloihin varautumisesta. Lisäksi Liikenne- ja viestintävirasto voi antaa tarkempia teknisiä määräyksiä, jotka koskevat 1 momentissa tarkoitetun valmiussuunnitelman tarkempaa sisältöä ja laadintaa.
+18 a § (29.6.2021/676)
+Laajennettu varautumisvelvollisuus covid-19-epidemian aikana
+
+Taksiliikenneluvan haltijan ja muun kuin 18 §:n 1 momentissa tarkoitetun henkilöliikenneluvan haltijan ja henkilöliikennettä harjoittavan tavaraliikenneluvan haltijan on varauduttava covid-19-taudin leviämisen ehkäisemiseen ja huolehdittava matkustajien terveyteen liittyvistä toimenpiteistä, jos covid-19-epidemian tilanne sitä edellyttää kansallisesti tai alueellisesti. Luvanhaltijan on laadittava viivytyksettä suunnitelma, jonka laadinnassa on huomioitava sosiaali- ja terveysministeriön sekä Terveyden ja hyvinvoinnin laitoksen antamat tartuntatautien torjumiseen liittyvät ohjeet ja määräykset. Jos luvanhaltija on jäsenenä välityskeskuksessa, suunnitelman voi tehdä myös välityskeskus luvanhaltijoiden puolesta tai yhteistyössä luvanhaltijoiden kanssa. Jos luvanhaltijat tarjoavat viranomaisten järjestämiä palveluja, heidän on erityisesti otettava huomioon palveluista vastaavien viranomaisten ohjeistus. Jos luvanhaltijat tarjoavat Kansaneläkelaitoksen sairausvakuutuslain (1224/2004) perusteella korvaamia matkoja, heidän on erityisesti otettava huomioon Kansaneläkelaitoksen ohjeistus. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä suunnitelman sisällöstä ja laadinnasta.
+
+L:lla 676/2021 lisätty 18 a § on väliaikaisesti voimassa 1.7.2021-31.12.2021.
+3 luku (30.12.2020/1256)
+Kansainvälinen tiekuljetus (4.5.2018/301)
+19 § (30.12.2019/1505)
+Kansainvälisen tiekuljetuksen määritelmät
+
+Tässä luvussa tarkoitetaan:
+
+1) kansainvälisen liikenteen kuljetusluvalla lupaa, jonka nojalla:
+
+a) ulkomailla rekisteröityä kuorma-autoa tai raskasta perävaunua saa käyttää Suomessa;
+
+b) Suomessa rekisteröityä kuorma-autoa tai raskasta perävaunua saa käyttää ulkomailla tai ulkomaalaisen kuljetusyrityksen käyttämänä Suomessa;
+
+c) linja-autolla saa harjoittaa Suomen ja toisen valtion välistä kansainvälistä matkustajaliikennettä;
+
+2) kansainvälisellä yhdistetyllä kuljetuksella tietynlaisia jäsenvaltioiden välisiä tavaroiden yhdistettyjä kuljetuksia koskevista yhteisistä säännöistä annetun neuvoston direktiivin 92/106/ETY mukaista Euroopan talousalueeseen kuuluvien valtioiden välistä tavarankuljetusta, jossa tavara kuljetetaan kuorma-autossa, perävaunussa, vetoautollisessa tai vetoautottomassa puoliperävaunussa, vaihtokuormatilassa tai vähintään 20 jalan kontissa osittain maanteitse ja osittain aluksella tai rautateitse siten, että kuljetus aluksella tai rautateitse on suoraan mitattuna pidempi kuin 100 kilometriä ja että maantiekuljetus tapahtuu:
+
+a) tavaran kuormauspaikan ja lähimmän sopivan rautatien kuormausaseman välillä;
+
+b) lähimmän sopivan rautatien purkausaseman ja tavaran purkauspaikan välillä; tai
+
+c) enintään 150 kilometrin matkalla mitattuna suoraan siitä sisävesi- tai merisatamasta, jossa tavara laivataan tai puretaan.
+20 § (30.12.2019/1505)
+Suomessa tarvittavan kansainvälisen liikenteen tiekuljetuslupa
+
+Ulkomailla rekisteröidyllä ajoneuvolla tai ulkomaalaisen yrityksen Suomesta vuokraamalla ajoneuvolla tulee olla 3 §:n tarkoittamissa kuljetuksissa Liikenne- ja viestintäviraston kuljetuslupa, International Transport Forumin kuljetuslupa tai Euroopan unionin säädösten mukainen lupa, jollei kansainvälisistä sopimuksista tai unionilainsäädännöstä muuta johdu.
+
+Liikenne- ja viestintäministeriö voi Suomea sitovaan kansainväliseen velvoitteeseen ja sopimukseen sisältyvän vastavuoroisuuden perusteella sopia vähäisiä poikkeuksia lupajärjestelyihin.
+
+Liikenne- ja viestintävirasto voi yksittäistapauksessa pakottavasta syystä sallia sellaisen kuljetuksen, joka ei ole kansainvälisen sopimuksen mukainen.
+21 § (4.5.2018/301)
+Ulkomaille tarvittavan tiekuljetusluvan myöntäminen (29.3.2019/371)
+
+Ulkomaille tarvittavan kansainvälisen liikenteen kuljetusluvan ja kahdenväliseen sopimukseen perustuvan matkustajaliikenteen valtakunnan rajan ylittävää reittiä koskevan luvan hakijan on esitettävä lupahakemuksessa Liikenne- ja viestintäviraston pyytämät hakemuksen käsittelemiseksi tarpeelliset tiedot. (23.11.2018/984)
+
+Jos kansainvälisen liikenteen kuljetuslupa voidaan myöntää lupien vähäisen määrän vuoksi vain osalle hakijoista, se on myönnettävä hakijalle, jonka kuljetus tehokkaimmin hyödyntää haettuun lupaan kohdistuvaa kuljetusoikeutta. Jos kahdenvälisiin sopimuksiin perustuvien matkustajaliikenteen valtakunnan rajan ylittävien reittien lupa voidaan myöntää lupien vähäisen määrän vuoksi vain osalle hakijoista, se on myönnettävä lupaa ensin hakeneille.
+22 § (30.12.2019/1505)
+Kansainvälisen tiekuljetusluvan palauttaminen
+
+Kuljetusluvan haltija on velvollinen viipymättä palauttamaan käyttämättömäksi jäävän tai käyttämättä jääneen 21 §:ssä tarkoitetun kuljetusluvan lupaviranomaiselle. Lupaviranomainen voi vaatia kuljetusluvan palautettavaksi, jos luvanhaltija ei käytä kuljetuslupaa eikä ota sitä käyttöön lupaviranomaisen asettamassa kohtuullisessa määräajassa.
+23 § (4.5.2018/301)
+Kansainväliseen yhdistettyyn tiekuljetukseen liittyvät oikeudet (29.3.2019/371)
+
+ETA-valtioihin perustetuilla kuljetusyrityksillä, jotka täyttävät maanteiden liikenteenharjoittajan ammattiin ja jäsenvaltioiden välisille tavarankuljetusmarkkinoille pääsemisen edellytykset, on oikeus suorittaa kansainväliseen yhdistettyyn kuljetukseen erottamattomasti kuuluvat maantiekuljetusosuudet silloinkin, kun niihin sisältyy Suomen ja ETA-valtion välisen rajan ylitys.
+24 § (4.5.2018/301)
+Kansainvälisen yhdistetyn tiekuljetuksen suorittamisen ehdot (29.3.2019/371)
+
+Jos kansainvälinen yhdistetty kuljetus suoritetaan toisen lukuun, kuljetusasiakirjassa on, sen lisäksi mitä muualla laissa säädetään, määriteltävä tarkasti rautatien kuormaus- ja purkausasemat rautatieosuudella, sisävesien laivaus- ja purkaussatamat sisävesiosuudella ja merenkulun laivaus- ja purkaussatamat merenkulkuosuudella. Nämä tiedot on merkittävä ennen kuljetusta ja ne on asema- tai satamaviranomaisten vahvistettava leimaamalla tai muulla siihen verrattavalla tavalla kyseisen rautateitse, sisävesiteitse tai meritse tapahtuvan kuljetusosuuden päätyttyä.
+
+Jos kuljetuksia omaan lukuun suorittavalle yritykselle kuuluvaa perävaunua tai puoliperävaunua kuljettaa maantiekuljetuksen loppuosuudella toisen lukuun kuljetuksia suorittavan yrityksen vetoauto, kuljetuksesta ei vaadita 1 momentissa tarkoitettua asiakirjaa, mutta kuljetuksesta on kuitenkin esitettävä muu asiakirja, josta ilmenee rautateitse, sisävesiteitse tai meritse suoritettu tai suoritettava matka.
+
+Jos kansainvälisen yhdistetyn kuljetuksen yhteydessä tavaran lähettäjä suorittaa maantiekuljetuksen alkuosuuden omaan lukuunsa siten kuin yhteisistä säännöistä harjoitettaessa kansainvälistä liikennettä annetun ensimmäisen neuvoston direktiivin 31962L2005 (maanteiden tavaraliikenne toisen lukuun) mukaisesti säädetään, tavaran vastaanottaja voi direktiivissä säädetystä määritelmästä poiketen suorittaa omaan lukuunsa maantiekuljetuksen loppuosuuden kuljettaakseen tavarat perille hallinnassaan olevalla vetoautolla, vaikka tavaran lähettäjä on rekisteröinyt tai vuokrannut kuljetuksessa käytettävän perävaunun tai puoliperävaunun.
+
+Kansainvälisessä yhdistetyssä kuljetuksessa maantiekuljetuksen alkuosuus, jonka tavaran lähettäjä suorittaa hallinnassaan olevalla vetoautolla, vaikka tavaran vastaanottaja on rekisteröinyt tai vuokrannut kuljetuksessa käytettävän perävaunun tai puoliperävaunun, katsotaan 3 momentissa mainitusta direktiivistä poiketen myös omaan lukuun tehdyksi kuljetukseksi, jos vastaanottaja suorittaa maantiekuljetuksen loppuosuuden omaan lukuunsa direktiivin mukaisesti.
+4 luku (30.12.2020/1256)
+Kuljettajaa koskevat vaatimukset tieliikenteessä (4.5.2018/301)
+25 §
+Taksinkuljettajaa koskevat vaatimukset
+
+Taksiliikenteessä kuljettajana toimivalla luonnollisella henkilöllä (taksinkuljettaja) on oltava taksinkuljettajan ajolupa. (4.5.2018/301)
+
+Liikenne- ja viestintävirasto myöntää hakemuksesta taksinkuljettajan ajoluvan henkilölle: (23.11.2018/984)
+
+1) jolla on voimassa oleva ajo-oikeus, kuitenkin vähintään vuotta aikaisemmin saatu B-luokan auton ajo-oikeus; Suomessa myönnetyn ajokortin lisäksi hyväksytään sellainen muussa Euroopan unionin jäsenvaltiossa tai Euroopan talousalueeseen kuuluvassa valtiossa myönnetty ajokortti, joka tunnustetaan Suomessa ajoneuvon kuljettamiseen oikeuttavaksi;
+
+2) joka täyttää ajokorttilain (386/2011) 18 §:ssä säädetyt ryhmän 2 ajokorttilupaa koskevat terveysvaatimukset;
+
+3) joka on suorittanut 25 a §:ssä tarkoitetun taksinkuljettajan kokeen. (9.4.2021/299)
+
+Liikenne- ja viestintävirasto ei kuitenkaan saa myöntää taksinkuljettajan ajolupaa henkilölle, joka on rikosrekisteristä ilmenevällä tavalla syyllistynyt ajolupahakemuksen ratkaisemista edeltäneen viiden vuoden aikana: (9.4.2021/299)
+
+1) rikoslain (39/1889) 17 luvun 18, 18 a tai 19 §:ssä tarkoitettuun sukupuolisiveellisyyttä loukkaavaan tekoon, 20 luvussa tarkoitettuun seksuaalirikokseen, 21 luvun 1-3 tai 6 §:ssä tarkoitettuun henkeen tai terveyteen kohdistuvaan rikokseen, 25 luvun 3 §:ssä tarkoitettuun ihmiskauppaan tai 3 a §:ssä tarkoitettuun törkeään ihmiskauppaan, 31 luvun 2 §:ssä tarkoitettuun törkeään ryöstöön taikka 50 luvussa tarkoitettuun huumausainerikokseen;
+
+2) rikoslain 21 luvun 4, 5, 6 a tai 7-15 §:ssä tarkoitettuun henkeen tai terveyteen kohdistuvaan rikokseen, 28 luvun 1-9 sekä 11 ja 12 §:ssä tarkoitettuihin omaisuusrikoksiin, 31 luvun 1 §:ssä tarkoitettuun ryöstöön tai 32 luvun 1-10 §:ssä tarkoitettuihin kätkemis- ja rahanpesurikoksiin;
+
+3) rikoslain 23 luvun 2 §:ssä tarkoitettuun törkeään liikenneturvallisuuden vaarantamiseen, 3 §:ssä tarkoitettuun rattijuopumukseen, 4 §:ssä tarkoitettuun törkeään rattijuopumukseen tai 10 §:ssä tarkoitettuun kulkuneuvon kuljettamiseen oikeudetta;
+
+4) 1-3 kohdassa tarkoitettua rikosta vastaavaan rikokseen, jota koskeva tuomioistuinratkaisu on rikosrekisterilain (770/1993) 2 §:n 2 momentin nojalla merkitty rikosrekisteriin.
+
+Liikenne- ja viestintävirasto ei myöskään saa myöntää ajolupaa, jos henkilö on sakkorekisteristä ilmenevällä tavalla syyllistynyt ajolupahakemuksen ratkaisemista edeltäneen kolmen vuoden aikana:
+
+1) rikoslain 23 luvun 2 §:ssä tarkoitettuun törkeään liikenneturvallisuuden vaarantamiseen, 3 §:ssä tarkoitettuun rattijuopumukseen tai 4 §:ssä tarkoitettuun törkeään rattijuopumukseen;
+
+2) rikoslain 23 luvun 10 §:ssä tarkoitettuun kulkuneuvon kuljettamiseen oikeudetta, jos teko osoittaa hänen olevan ilmeisen sopimaton toimimaan taksinkuljettajana; tai
+
+3) edellä 3 momentin 1, 2 tai 4 kohdassa tarkoitettuun tekoon, jos teko osoittaa hänen olevan ilmeisen sopimaton toimimaan taksinkuljettajana.
+(9.4.2021/299)
+
+Kun hakijalle on myönnetty ajolupa, Liikenne- ja viestintävirasto voi pyynnöstä myöntää siitä väliaikaisen todistuksen. Mitä muutoin säädetään ajoluvasta, sovelletaan myös väliaikaiseen todistukseen. (9.4.2021/299)
+
+6 momentti on kumottu L:lla 9.4.2021/299.
+25 a § (9.4.2021/299)
+Taksinkuljettajan koe
+
+Taksinkuljettajan kokeen hyväksytty suorittaminen osoittaa, että kokelaalla on taksinkuljettajan tehtävässä tarvittavat tiedot, taidot ja osaaminen. Kokeessa on oltava kysymyksiä matkustajien avustamisesta ja turvallisuudesta huolehtimisesta, eri matkustajaryhmien erityistarpeista, taksipalvelujen asiakaspalvelutilanteista sekä kuljetusten ja liikenteen turvallisuuteen vaikuttavista tekijöistä.
+
+Liikenne- ja viestintävirasto vastaa kokeen järjestämisestä ja kokeen valvonnasta. Liikenne- ja viestintävirasto antaa tarkempia määräyksiä kokeen sisällöstä ja toteutuksesta sekä kokeeseen ilmoittautumisesta.
+26 § (29.3.2019/371)
+Taksinkuljettajan ajoluvan voimassaolo ja uusiminen
+
+Taksinkuljettajan ajolupa on voimassa viisi vuotta sen myöntämisestä. Taksinkuljettajan täytettyä 68 vuotta lupa on kuitenkin voimassa kaksi vuotta sen myöntämisestä. Jos päätös uudesta ajoluvasta on tehty ennen hakijalla olevan ajoluvan päättymistä, uusi ajolupa on voimassa säädetyn määräajan edellisen ajoluvan voimassaoloajan päättymisestä lukien.
+
+Ajolupa voidaan uusia Liikenne- ja viestintävirastoon tehtävästä hakemuksesta. Ajoluvan uusimista saa hakea aikaisintaan kuusi kuukautta ennen ajoluvan voimassaoloajan päättymistä. Ajoluvan uusimiseen sovelletaan, mitä 25 §:n 2 momentin 1 ja 2 kohdassa sekä 3 ja 4 momentissa säädetään ajoluvan myöntämisestä. Jos luvan uusimista hakeva on luvan voimassaoloaikana syyllistynyt 25 §:n 3 momentissa tarkoitettuun tekoon, lupa voidaan kuitenkin uusia, jos uusimatta jättämistä voidaan pitää teosta jo langetetut rangaistukset tai hallinnolliset seuraamukset huomioon ottaen kohtuuttomana. (9.4.2021/299)
+
+3 momentti on kumottu L:lla 26.3.2021/229, väliaikaisesti voimassa 1.6.2020-28.3.2021 L:lla 407/2020. (26.3.2021/229)
+26 a § (9.4.2021/299)
+Taksiliikenteen erityisryhmien kuljettajakoulutus ja koulutustodistus
+
+Koulutuksen järjestänyt koulutusorganisaatio myöntää taksiliikenteen erityisryhmien kuljettajakoulutuksen suorittaneelle henkilölle koulutustodistuksen. Erityisryhmien kuljettajakoulutuksen tulee sisältää opetusta liikunta- ja toimintarajoitteiden vaikutuksesta taksipalvelujen käyttämiseen, liikunta- ja toimintarajoitteisten asiakkaiden kohtaamisesta ja heidän kanssaan kommunikoinnista, erityisryhmien avustamisesta, ajoneuvoon avustamisesta sekä koulu- ja päivähoitokuljetuksiin liittyvistä erityiskysymyksistä.
+
+Erityisryhmien kuljettajakoulutuksen kesto on 21 tuntia, josta vähintään seitsemän tuntia on oltava käytännön opetusta.
+
+Henkilö, jolla on ollut voimassa kumotussa taksinkuljettajien ammattipätevyydestä annetussa laissa (695/2009) tarkoitettu taksinkuljettajan ajolupa ja jonka voidaan todentaa osallistuneen kyseisessä laissa tarkoitettuun lakisääteiseen koulutukseen tai jatkokoulutukseen, saa koulutustodistuksen käymällä erityisryhmien kuljettajakoulutuksen käytännön opetuksen kokonaisuudessaan.
+
+Liikenne- ja viestintävirasto antaa tarkempia määräyksiä koulutuksen sisällöstä ja käytännön toteutuksesta.
+27 § (29.3.2019/371)
+Kuorma- ja linja-autonkuljettajan ammattipätevyysvaatimukset
+
+Tieliikenteen henkilö- ja tavarakuljetuksissa kuorma- ja linja-auton sekä niiden ja hinattavan ajoneuvon muodostaman ajoneuvoyhdistelmän kuljettajana toimivalla luonnollisella henkilöllä on oltava tieliikenteessä ammattipätevyys. Lisäksi hänen on täytettävä vähimmäisikää koskevat vaatimukset. Vaatimukset koskevat myös muun ETA-valtion kansalaista ja sellaisen muun maan kansalaista, joka on työsuhteessa ETA-valtioon sijoittautuneeseen yritykseen tai jota ETA-valtioon sijoittautunut yritys käyttää kuljettajana.
+
+Kuorma- tai linja-auton kuljettajalla on oltava ammattipätevyyden lisäksi kuljettamaansa ajoneuvoa tai ajoneuvoyhdistelmää vastaava ajo-oikeus.
+
+Tätä lakia sovelletaan myös traktorin ja muun ajoneuvon tai ajoneuvoyhdistelmän kuljettajaan, jos vaatimuksena on kuorma- tai linja-auton ajokortti.
+28 § (9.7.2020/562)
+Poikkeukset kuorma- ja linja-autonkuljettajan ammattipätevyysvaatimuksesta
+
+Kuljettajalta ei vaadita ammattipätevyyttä, jos:
+
+1) ajoneuvon suurin sallittu rakenteellinen nopeus on enintään 45 kilometriä tunnissa;
+
+2) ajoneuvo on poliisin, pelastustoimen tai pelastusalan koulutuksesta vastaavan oppilaitoksen, ensihoitopalvelun, Puolustusvoimien, Tullin tai Rajavartiolaitoksen käytössä niiden tehtäviin liittyvissä kuljetuksissa;
+
+3) ajoneuvon kuljettaminen ei ole kuljettajan päätehtävä ja ajoneuvoa koeajetaan tai siirretään korjaamisen, huoltamisen tai katsastamisen yhteydessä, siirretään varikkoalueella pesun, siivouksen tai tankkauksen yhteydessä, siirretään ajoneuvojen myynti- ja markkinointitapahtumiin tai myyntipisteiden välillä, koeajetaan ajoneuvon parantamiseksi teknisesti taikka koeajetaan uusi tai muunnettu ajoneuvo ennen ajoneuvon liikenteeseen hyväksymistä;
+
+4) ajoneuvoa käytetään kiireellisessä hätätilanteessa pelastustarkoituksiin poliisin, pelastusviranomaisen, Tullin tai Rajavartiolaitoksen määräyksen perusteella;
+
+5) ajoneuvoa käytetään ajo-oikeuden tai tässä laissa tarkoitetun perustason ammattipätevyyden tai jatkokoulutuksen saamiseksi:
+
+a) ajo-opetuksessa eikä ajoneuvoa käytetä kaupallisessa tavara- tai henkilöliikenteessä;
+
+b) lisäajo-opetuksessa työpaikalla järjestettävän koulutuksen aikana ja kuljettajan seurassa on henkilö, jolla on ajoneuvon kuljettamisen edellyttämä voimassa oleva ammattipätevyys, tai kyseisen ajoneuvoluokan ajo-opettaja;
+
+6) ajoneuvoa käytetään yksityisesti muihin tavarakuljetuksiin kuin kaupallisiin tavarakuljetuksiin;
+
+7) D1-luokan ajo-oikeudella kuljetettavaa linja-autoa, joka on suunniteltu ja valmistettu kuljettamaan kuljettajan lisäksi enintään 16 henkilöä, käytetään yksityisesti muihin kuin kaupallisiin henkilökuljetuksiin, jotka suoritetaan kuljettajan kanssa samassa taloudessa asuvien ja enintään kolmen muun henkilön kuljettamiseksi, ja linja-auto on kuljettajan tai hänen kanssaan samassa taloudessa asuvan henkilön omistuksessa, taikka muuta linja-autoa käytetään yksityisesti muihin kuin kaupallisiin henkilökuljetuksiin, jotka suoritetaan kuljettajan kanssa samassa taloudessa asuvien kuljettamiseksi ja linja-auto on heistä jonkun omistuksessa;
+
+8) ajoneuvolla kuljetetaan materiaaleja, koneita tai laitteita, joita kuljettaja käyttää työssään, ja kuljettajan pääasiallisena tehtävänä ei ole ajoneuvon kuljettaminen taikka ajoneuvolla kuljetetaan vähäisessä määrin omia tuotteita, joita kuljettaja myy tietyssä paikassa edellyttäen, että pääasiallisena tehtävänä ei ole ajoneuvon kuljettaminen; taikka
+
+9) ajoneuvoa käytetään maanviljelyä, puutarhaviljelyä, metsätaloutta, kotieläintaloutta tai kalastusta harjoittavan yrityksen omien tuotteiden kuljettamiseen yrityksen käytössä olevalla ajoneuvolla, ja ajoneuvon kuljettaminen ei ole osa kuljettajan päätehtävää eikä ajoneuvoa kuljeteta yli 100 kilometrin etäisyydellä yrityksen kotipaikasta.
+29 § (9.7.2020/562)
+Kuorma- ja linja-autonkuljettajan perustason ammattipätevyys
+
+Ammattipätevyys saavutetaan suorittamalla kuljetusmuotoa vastaava perustason ammattipätevyyskoulutus ja siihen sisältyvä teoriakoe tai perustason ammattipätevyyskoe. Ammattipätevyys saadaan viideksi vuodeksi ja sitä voidaan jatkaa jatkokoulutuksella viideksi vuodeksi kerrallaan. Perustason ammattipätevyyden suorittamista ei vaadita siltä, johon kuljetusmuotoa vastaavan ajokortin myöntämisen ajankohdan perusteella voidaan soveltaa maanteiden tavara- ja henkilöliikenteeseen tarkoitettujen tiettyjen ajoneuvojen kuljettajien perustason ammattipätevyydestä ja jatkokoulutuksesta, neuvoston asetuksen (ETY) 3820/85 ja neuvoston direktiivin 91/439/ETY muuttamisesta sekä neuvoston direktiivin 76/914/ETY kumoamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2003/59/EY, jäljempänä tieliikenteen ammattipätevyysdirektiivi, 4 artiklan säännöksiä saavutetuista oikeuksista.
+
+Perustason ammattipätevyyteen sisältyvät oppiaineet ja niiden tavoitteet on lueteltu tieliikenteen ammattipätevyysdirektiivin liitteen I jaksossa 1. Ne sisältävät perustiedot kuljettajana toimimisen vaatimuksista, kuljettajan, kuljetusten ja liikenteen turvallisuuteen vaikuttavista seikoista sekä hyvästä ammatin hoitamisesta ajoneuvoa kuljetettaessa ja muissa kuljettajan tehtävissä. Perustason ammattipätevyys suoritetaan erikseen kuorma-auton- tai linja-autonkuljettajana toimimista varten ja siinä voidaan lukea hyväksi muuta Euroopan unionin lainsäädännössä vaadittua koulutusta.
+
+Linja-autonkuljettajien perustason ammattipätevyyden suorittamisen yhteydessä toteutetaan myös matkustajien oikeuksista linja-autoliikenteessä sekä asetuksen (EY) N:o 2006/2004 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 181/2011, jäljempänä EU:n linja-autoliikenteen matkustajien oikeuksia koskeva asetus, 16 artiklan 1 kohdan b alakohdassa tarkoitettu vammaisuuteen liittyvää tietoisuutta lisäävä koulutus.
+
+Perustason ammattipätevyys on saavutettava tämän lain mukaisesti, jos ajokorteista annetussa Euroopan parlamentin ja neuvoston direktiivissä 2006/126/EY tarkoitettu vakinainen asuinpaikka on Suomessa. Kuljettajan, joka on muun maan kansalainen ja joka on työsuhteessa ETA-valtioon sijoittautuneeseen yritykseen tai jota ETA-valtioon sijoittautunut yritys käyttää kuljettajana, on saavutettava perustason ammattipätevyys tämän lain mukaisesti, jos hän työskentelee Suomessa sijaitsevan yrityksen palveluksessa tai hänelle on myönnetty työlupa Suomessa.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä tässä pykälässä tarkoitetun perustason ammattipätevyyden sisällöstä sekä 1 momentissa tarkoitetuista saavutetuista oikeuksista, 2 momentissa tarkoitetun muun koulutuksen hyväksi lukemisesta ja 3 momentissa tarkoitetun koulutuksen toteutuksesta. Liikenne- ja viestintävirasto voi antaa tarkempia määräyksiä sen toimivaltaan kuuluvan ja sen hallinnoiman perustason ammattipätevyyskoulutukseen sisältyvän kokeen sisällöstä ja sen käytännön toteutuksesta.
+30 § (29.3.2019/371)
+Kuorma- ja linja-autonkuljettajan vähimmäisikä
+
+C-luokan kuorma-autoa ja CE-luokan ajoneuvoyhdistelmää kuljettavan luonnollisen henkilön on oltava 18 vuotta täyttänyt tai, jos perustason ammattipätevyys on saavutettu nopeutetulla perustason ammattipätevyyskoulutuksella, 21 vuotta täyttänyt. C1-luokan kuorma-autoa ja C1E-luokan ajoneuvoyhdistelmää saa kuljettaa 18 vuotta täyttänyt silloinkin, kun perustason ammattipätevyys on saavutettu nopeutetulla koulutuksella.
+
+D-luokan linja-autoa ja DE-luokan ajoneuvoyhdistelmää kuljettavan luonnollisen henkilön on oltava 21 vuotta täyttänyt tai, jos perustason ammattipätevyys on saavutettu nopeutetulla koulutuksella, 23 vuotta täyttänyt. D1-luokan linja-autoa ja D1E-luokan ajoneuvoyhdistelmää saa kuljettaa 21 vuotta täyttänyt silloinkin, kun perustason ammattipätevyys on saavutettu nopeutetulla koulutuksella.
+
+D-luokan linja-autoa ja DE-luokan ajoneuvoyhdistelmää saa 2 momentista poiketen paikallisliikenteessä säännöllisellä, enintään 50 kilometrin pituisella reitillä kuljettaa 21 vuotta täyttänyt silloinkin, kun perustason ammattipätevyys on saavutettu nopeutetulla koulutuksella.
+
+D1- tai D-luokan linja-auton kuljettajana Suomessa, Ahvenanmaata lukuun ottamatta, voi 2 momentista poiketen toimia 18 vuotta täyttänyt, joka on suorittanut linja-auton kuljettajan perustason ammattipätevyyden muuten kuin nopeutetulla perustason ammattipätevyyskoulutuksella tieliikenteen ammattipätevyysdirektiivin 3 artiklan 1 kohdan a alakohdassa tarkoitetun ammatillisen koulutuksen yhteydessä ja jolla on kuljetettavan ajoneuvon luokkaa vastaava ajo-oikeus. Kuljettaja, joka ei ole täyttänyt 20 vuotta, saa kuljettaa D-luokan linja-autoa vain paikallisliikenteessä säännöllisellä, enintään 50 kilometrin pituisella reitillä tai siirtää D-luokan ajoneuvoa ilman matkustajia.
+31 § (29.3.2019/371)
+Kuorma- ja linja-autonkuljettajan ammattipätevyyden saavuttaminen koulutus ja koe suorittamalla 
+
+Perustason ammattipätevyyskoulutuksen kesto on 280 tuntia, josta vähintään 20 tuntia on oltava ajo-opetusta. Perustason ammattipätevyyskoulutus voidaan toteuttaa myös nopeutettuna, jolloin koulutuksen kesto on 140 tuntia ja siitä vähintään 10 tuntia on oltava ajo-opetusta.
+
+Perustason ammattipätevyys voidaan laajentaa toiseen kuljetusmuotoon suorittamalla 29 §:n 2 momentissa tarkoitetun oppiaineluettelon osat, jotka vastaavat suoritettavaa kuljetusmuotoa ja pätevyyttä. Täydentävän koulutuksen kesto on 70 tuntia, josta vähintään viisi tuntia on oltava ajo-opetusta. Nopeutetussa koulutuksessa täydentävän koulutuksen kesto on 35 tuntia, josta vähintään kolme tuntia on oltava ajo-opetusta.
+
+Koulutuksen päätteeksi suoritettavaan teoriakokeeseen sisältyy vähintään yksi kysymys 29 §:n 2 momentissa tarkoitetun oppiaineluettelon jokaista tavoitetta kohden ja tämän pykälän 2 momentin mukaisesti ammattipätevyyttä laajennettaessa jokaista suoritettavan kuljetusmuodon tavoitetta kohden. Kokeen hyväksytysti suorittaneelle annetaan todistus perustason ammattipätevyyskoulutuksen tai nopeutetun perustason ammattipätevyyskoulutuksen suorittamisesta. Ammatillisessa koulutuksessa merkintä koulutuksen suorittamisesta voidaan kuitenkin tehdä ammatillisesta koulutuksesta annetun lain (531/2017) 57 §:ssä tarkoitettuun tutkinnon suorittamisesta annettavaan todistukseen.
+
+Perustason ammattipätevyyskoulutuksessa on noudatettava mitä tässä laissa säädetään koulutuksen sisällöistä ja toteutuksesta. Jos perustason ammattipätevyyskoulutuksessa olevalla ei ole ajo-opetuksessa käytettävän ajoneuvon ajo-oikeutta, ajo-opetukseen sovelletaan vastaavan luokan ajokortin ajo-opetuksessa noudatettavia säännöksiä.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä perustason ammattipätevyyskoulutuksen ja siihen sisältyvän kokeen sisällöstä ja toteutuksesta sekä kokeeseen ilmoittautumisesta. Valtioneuvoston asetuksella voidaan antaa myös säännökset oppitunnin pituudesta.
+32 § (29.3.2019/371)
+Kuorma- ja linja-auton kuljettajan ammattipätevyyden saavuttaminen kokeet suorittamalla
+
+Perustason ammattipätevyyskokeessa suoritetaan teoriakoe ja käytännön koe. Teoriakoe on kaksiosainen, ja sen on täytettävä tieliikenteen ammattipätevyysdirektiivin I liitteen 2 jakson 2.2 kohdan a alakohdassa olevat vaatimukset.
+
+Käytännön kokeeseen sisältyy ajokoe, jossa arvioidaan oppiaineluettelon 1 kohdassa tarkoitettua turvallisuussääntöihin perustuvaa järkevää ajokäyttäytymistä erilaisissa liikennetilanteissa ja -ympäristöissä, joita kuljettajien työssä voidaan kohdata. Ajokokeen kesto on vähintään 90 minuuttia, josta enintään kolmasosa voidaan toteuttaa korkealaatuisella simulaattorilla tai erityisellä testialueella erityisesti toimintaa, ajoneuvon hallintaa, järkevää ajokäyttäytymistä ja ajamista vaikeissa ja vaihtelevissa olosuhteissa arvioitaessa. Lisäksi käytännön kokeeseen sisältyy osio, jossa arvioidaan suoritettavan kuljetusmuodon edellyttämää osaamista erityisesti oppiaineluettelon kohdissa 1.4-1.6, 3.2, 3.3 ja 3.5, jotka koskevat turvallisuussääntöjen ja ajoneuvon tarkoituksenmukaisen käytön mukaista kuormittamista, matkustajien turvallisuudesta ja mukavuudesta huolehtimista, rikollisuuden ja salamatkustamisen sekä fyysisten riskien ennalta ehkäisemistä ja hätätilanteiden arviointia. Osion kesto on vähintään 30 minuuttia.
+
+Perustason ammattipätevyys voidaan laajentaa toiseen kuljetusmuotoon suorittamalla sitä vastaava käytännön koe ja teoriakokeesta ne oppiaineluettelon osat, jotka koskevat suoritettavaa kuljetusmuotoa ja pätevyyttä.
+
+Kokeen hyväksytysti suorittaneelle annetaan todistus perustason ammattipätevyyskokeen suorittamisesta. Ammatillisessa koulutuksessa merkintä perustason ammattipätevyyskokeen suorittamisesta voidaan kuitenkin sisällyttää ammatillisesta koulutuksesta annetun lain 57 §:ssä tarkoitettuun tutkinnon suorittamisesta annettavaan todistukseen.
+
+Suoritettavasta ammattipätevyydestä riippuen perustason ammattipätevyyskokeessa käytettävän kuorma-auton tai linja-auton on täytettävä ajokorteista annetussa Euroopan parlamentin ja neuvoston direktiivissä 2006/126/EY säädetyt koeajoneuvojen vaatimukset. Käytännön kokeen ajokokeen osuudessa ajoneuvoa kuljettavalla on oltava sen ajo-oikeus. Ammattipätevyyttä suoritettaessa annettavaan ajo-opetukseen sovelletaan 33 §:n 4 momentin säännöstä, jos ammattipätevyyttä suorittavalla ei ole opetuksessa käytettävän ajoneuvon ajo-oikeutta.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä perustason ammattipätevyyskokeesta ja sen toteutuksesta sekä siihen ilmoittautumisesta.
+
+Liikenne- ja viestintävirasto voi antaa tarkempia määräyksiä toimivaltaansa kuuluvan perustason ammattipätevyyskokeen sisällöstä ja sen käytännön toteutuksesta. (30.12.2020/1256)
+33 § (29.3.2019/371)
+Kuorma- ja linja-auton kuljettajan ammattipätevyyden suorittaminen ammatillisen koulutuksen yhteydessä
+

@@ -1,0 +1,100 @@
+Laki liikenteen palveluista
+
+Tätä lakia sovelletaan liikenteen palveluihin, niihin liittyviin henkilölupiin sekä liikenneasioiden rekisteriin.
+
+Tätä lakia sovelletaan palveluntarjoajaan, jolla on toimipaikka Suomessa tai joka on muuten Suomen oikeudenkäytön piirissä. Lisäksi lakia sovelletaan kuljetuspalvelun tarjoajaan, jonka liikennöimän palvelun alku- tai loppupää on Suomessa tai palvelu kulkee Suomen kautta.
+
+Tätä lakia sovelletaan 120 §:n 2 kohdassa tarkoitetun EASA-asetuksen 2 artiklan 8 kohdassa tarkoitettujen ilma-alusluokkien lentotoimintaan. (26.6.2020/535)
+2 § (4.5.2018/301)
+Yleiset määritelmät (29.3.2019/371)
+
+Tässä laissa tarkoitetaan:
+
+1) kuljetuspalvelulla henkilöiden tai tavaroiden kuljettamista ammattimaisesti;
+
+2) välityspalvelulla kuljetusten välittämistä korvausta vastaan, ei kuitenkaan palvelua, jossa välitetään vain palveluntarjoajan omia kuljetuksia, eikä matkapalveluyhdistelmistä annetun lain (901/2017) soveltamisalaan kuuluvia matkapaketteja tai yhdistettyjä matkajärjestelyjä;
+
+3) liikennepalvelulla julkista tai yksityistä liikenteeseen liittyvää palvelua ja palveluyhdistelmää, jota tarjotaan yleisölle tai yksityiseen käyttöön;
+
+4) liikkumispalvelulla liikennepalvelua ja siihen välittömästi liittyvää välityspalvelua, tietopalvelua ja pysäköintipalvelua ja muuta tukipalvelua;
+
+5) yhdistämispalvelulla matkaketjujen ja muiden palvelukokonaisuuksien muodostamista korvausta vastaan yhdistelemällä eri palveluntarjoajien liikkumispalveluja, ei kuitenkaan matkapalveluyhdistelmistä annetun lain soveltamisalaan kuuluvia matkapaketteja tai yhdistettyjä matkajärjestelyjä;
+
+6) ETA-valtiolla Euroopan talousalueeseen kuuluvaa valtiota;
+
+7) henkilöluvalla sellaista luonnolliselle henkilölle myönnettävää henkilökohtaista lupaa, pätevyyttä, lisäpätevyyttä, kelpuutusta, kelpoisuutta, oikeutta kuljettaa liikennevälinettä ja hyväksyntää, jonka olemassaolo voidaan todentaa lupakirjalla, pätevyyskirjalla, lisäpätevyystodistuksella, kelpoisuustodistuksella, tunnustamista koskevalla todistuksella tai muulla vastaavalla sähköisellä tai paperimuotoisella asiakirjalla;
+
+8) toiminnanharjoittajaluvalla luvanvaraisen pääsääntöisesti ammattimaisen toiminnan harjoittamiseen oikeuttavaa toimilupaa tai muuta vastaavaa hyväksyntää;
+
+9) asiakirjalla sähköistä tai paperimuodossa olevaa asiakirjaa; (30.12.2020/1256)
+
+10) liikenteen ohjaus- ja hallintapalvelulla tie-, rautatie-, lento- ja alusliikenteen ohjausta, hallintaa ja varmistusta; palvelulle on ominaista, että se toimii vuorovaikutuksessa liikenteen kanssa ja reagoi muuttuviin liikennetilanteisiin; ja (30.12.2020/1256)
+
+11) hyväksymispäätöksellä viranomaisen tekemää päätöstä, jolla viranomaisen hyväksymistä edellyttävän toiminnan harjoittaminen on hyväksytty. (30.12.2020/1256)
+II OSA
+LIIKENNEMARKKINAT
+2 luku (30.12.2020/1256)
+Luvanvarainen toiminta tieliikenteessä
+3 § (30.12.2019/1505)
+Henkilöiden ja tavaroiden kuljettaminen tiellä
+
+Henkilöiden tai tavaroiden kuljettamiseen tiellä tulonhankkimistarkoituksessa korvausta vastaan (ammattimainen kuljettaminen tiellä) tarvitaan lupa. Maantieliikenteen harjoittajan ammatin harjoittamisen edellytyksiä koskevista yhteisistä säännöistä ja neuvoston direktiivin 96/26/EY kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 1071/2009, jäljempänä EU:n liikenteenharjoittaja-asetus, tarkoitettu lupa tarvitaan:
+
+1) ammattimaiseen henkilöiden kuljettamiseen tiellä ajoneuvolaissa (82/2021) tarkoitetulla linja-autolla (henkilöliikennelupa); tai (15.1.2021/91)
+
+2) ammattimaiseen tavaran kuljettamiseen tiellä ajoneuvolla tai ajoneuvoyhdistelmällä, jonka suurin sallittu kokonaismassa on yli 3 500 kiloa (tavaraliikennelupa).
+
+Ilman henkilöliikennelupaa saa kuitenkin:
+
+1) suorittaa kuljetuksia konsernin, siihen verrattavan yhtymän tai julkisyhteisön sisäisiä henkilökuljetuksia niiden hallinnassa olevilla ajoneuvoilla; tai
+
+2) kunnan tai muun julkisyhteisön järjestämiin sosiaali- ja terveyspalveluihin kuuluvana kuljettaa henkilöitä sen hallinnassa olevalla ajoneuvolla kuljetuspalvelujen saajilta perittäväksi säädettyä asiakasmaksua vastaan.
+
+Ilman tavaraliikennelupaa saa kuitenkin Suomen sisäisissä kuljetuksissa kuljettaa tavaraa traktorilla, jonka suurin sallittu nopeus on enintään 60 kilometriä tunnissa. Tavaraa saa kuljettaa myös henkilöliikenneluvan haltija linja-autolla. Lisäksi valtioneuvoston asetuksella voidaan vapauttaa luvanvaraisuudesta muu sellainen Suomen sisäinen tavaran kuljettaminen, jolla on kuljetusmarkkinoihin vain vähäinen vaikutus kuljetettavien tavaroiden luonteen tai lyhyen kuljetusmatkan vuoksi.
+
+Muualla kuin Suomessa rekisteröityjen ajoneuvojen tai ulkomaalaisen yrityksen Suomesta vuokraamien ajoneuvojen oikeudesta kuljettaa tavaraa tai henkilöitä ammattimaisesti Suomessa ja suomalaisten ajoneuvojen oikeudesta saada tarvittaessa toiseen valtioon kuljetuslupa säädetään 3 luvussa. (30.12.2020/1256)
+4 § (9.4.2021/299)
+Taksiliikenne
+
+Ammattimaiseen henkilöiden kuljettamiseen tiellä ja näiden palvelujen tarjoamiseen yleisölle ajoneuvolaissa tarkoitetulla henkilöautolla, pakettiautolla, kuorma-autolla, kolmipyörällä, kevyellä nelipyörällä tai raskaalla nelipyörällä (taksiliikenne) tarvitaan taksiliikennelupa tai henkilö- tai tavaraliikennelupa. Henkilö- tai tavaraliikenneluvan haltijan on tehtävä taksiliikenteen harjoittamisesta ilmoitus Liikenne- ja viestintävirastolle.
+
+Ilman taksiliikennelupaa saa kuitenkin suorittaa:
+
+1) konsernin, siihen verrattavan yhtymän tai julkisyhteisön sisäisiä henkilökuljetuksia niiden hallinnassa olevilla ajoneuvoilla;
+
+2) kunnan tai muun julkisyhteisön järjestämiin sosiaali- ja terveyspalveluihin kuuluvia henkilökuljetuksia sen hallinnassa olevalla henkilöautolla kuljetuspalvelujen saajilta perittäväksi säädettyä asiakasmaksua vastaan; tai
+
+3) koti- tai matkailupalveluyrityksen kuljetuksia, jotka ovat osa yrityksen asiakkaille tarjoamaa palvelukokonaisuutta ja tapahtuvat palveluyrityksen hallinnassa olevalla ajoneuvolla.
+
+5 § (30.12.2019/1505)
+Henkilö- ja tavaraliikenneluvan myöntäminen
+
+Liikenne- ja viestintävirasto myöntää hakemuksesta henkilöliikenneluvan ja tavaraliikenneluvan luonnolliselle henkilölle:
+
+1) joka on täysi-ikäinen, jonka toimintakelpoisuutta ei ole holhoustoimesta annetun lain (442/1999) 18 §:n nojalla rajoitettu ja jolle ei ole saman lain 8 §:n 1 momentin nojalla määrättyä edunvalvojaa;
+
+2) joka täyttää EU:n liikenteenharjoittaja-asetuksen 4 ja 6-8 artiklassa säädetyt maantieliikenteen harjoittajan ammatin harjoittamista koskevat vaatimukset;
+
+3) jota tai jonka määräämisvallassa arvopaperimarkkinalain (746/2012) 2 luvun 4 §:ssä tarkoitetulla tavalla olevaa yhteisöä ei ole asetettu konkurssiin sen toimiessa henkilö-, taksi- tai tavaraliikennelupaa vaativalla toimialalla kahden viimeisimmän vuoden aikana;
+
+4) jolla ei ole veroihin, lakisääteisiin eläke-, tapaturma- tai työttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien velvollisuuksien laiminlyöntejä eikä muita ulosotossa olevia velkoja, jotka ovat hänen maksukykyynsä nähden vähäistä suurempia, eikä velkoja, jotka on palautettu ulosotosta varattomuustodistuksin;
+
+5) jota ei ole määrätty liiketoimintakieltoon eikä väliaikaiseen liiketoimintakieltoon;
+
+6) jota ei ole lainvoimaisella tuomiolla todettu syylliseksi tahallisesti tai törkeästä huolimattomuudesta tehtyyn työsuhteeseen perustuvien, määrältään ja perusteeltaan selvien saatavien maksamisen laiminlyöntiin kahden viimeisimmän vuoden aikana;
+
+7) jos 3-6 kohdassa tarkoitettu tai siihen välittömästi verrattavissa oleva aikaisempi toiminta ei osoita hakijaa ilmeisen sopimattomaksi harjoittamaan tässä laissa tarkoitettua luvanvaraista toimintaa.
+
+Liikenne- ja viestintävirasto myöntää hakemuksesta henkilöliikenneluvan ja tavaraliikenneluvan oikeushenkilölle:
+
+1) joka täyttää EU:n liikenteenharjoittaja-asetuksen 4 ja 6-8 artiklassa säädetyt maantieliikenteen harjoittajan ammatin harjoittamista ja ammatillista pätevyyttä koskevat vaatimukset;
+
+2) jota tai jonka Harmaan talouden selvitysyksiköstä annetun lain (1207/2010) 2 §:ssä tarkoitettua organisaatiohenkilöä taikka näiden määräämisvallassa arvopaperimarkkinalain 2 luvun 4 §:ssä tarkoitetulla tavalla olevaa yhteisöä ei ole asetettu konkurssiin sen toimiessa henkilö-, taksi- tai tavaraliikennelupaa vaativalla toimialalla kahden viimeisimmän vuoden aikana;
+
+3) jolla ei ole veroihin, lakisääteisiin eläke-, tapaturma- tai työttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien velvollisuuksien laiminlyöntejä eikä muita ulosotossa olevia velkoja, jotka ovat hakijan maksukykyyn nähden vähäistä suurempia, eikä velkoja, jotka on palautettu ulosotosta varattomuustodistuksin;
+
+4) jonka toimitusjohtajaa tai vastuunalaista yhtiömiestä ei ole määrätty liiketoimintakieltoon eikä väliaikaiseen liiketoimintakieltoon;
+
+5) jota ei ole lainvoimaisella tuomiolla todettu syylliseksi tahallisesti tai törkeästä huolimattomuudesta tehtyyn työsuhteeseen perustuvien, määrältään ja perusteeltaan selvien saatavien maksamisen laiminlyöntiin kahden viimeisimmän vuoden aikana;
+
+6) jos tämän momentin 2-5 kohdassa tarkoitettu tai siihen välittömästi verrattavissa oleva aikaisempi toiminta ei osoita hakijaa ilmeisen sopimattomaksi harjoittamaan tässä laissa tarkoitettua luvanvaraista toimintaa.

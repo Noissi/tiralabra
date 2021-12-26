@@ -20,10 +20,18 @@ class Lempelziv:
         self.nimi = Path(self.tiedosto).stem + ".lzw"
         self.polku = "pakatut/"
 
-        sanakirjan_koko = 256
-        self.sanakirja = {chr(i): i for i in range(sanakirjan_koko)}
-        self.purkukirjan_koko = 256
-        self.purkukirja = {i: chr(i) for i in range(sanakirjan_koko)}
+        
+        self.sanakirja = {chr(i): i for i in range(256)}
+        self.sanakirjan_koko = 259
+        self.sanakirja["′"] = 256
+        self.sanakirja["›"] = 257
+        self.sanakirja["–"] = 258
+        
+        self.purkukirjan_koko = 259
+        self.purkukirja = {i: chr(i) for i in range(256)}
+        self.purkukirja["′"] = 256
+        self.purkukirja["›"] = 257
+        self.purkukirja["–"] = 258
 
     def aja(self):
         """ Ajaa Lempel-Ziv -pakkausalgoritmin.
@@ -53,8 +61,15 @@ class Lempelziv:
                     else:
                         binaariteksti += bin(self.sanakirja[sana])[2:].zfill(12)
                         indeksit.append(self.sanakirja[sana])
-                        self.sanakirja[merkkijono] = len(self.sanakirja)
+                        if self.sanakirjan_koko < 4096:
+                            self.sanakirja[merkkijono] = len(self.sanakirja)
+                            self.sanakirjan_koko += 1
                         sana = merkki
+                        
+            if sana == merkkijono or self.sanakirjan_koko == 4096:
+                binaariteksti += bin(self.sanakirja[sana])[2:].zfill(12)
+                indeksit.append(self.sanakirja[sana])
+                
 
             if len(binaariteksti)%8 != 0:
                 binaariteksti += "0000"
@@ -90,8 +105,9 @@ class Lempelziv:
                 merkkijono2 = merkkijono1 + merkkijono1[0]
             tulos += merkkijono2
 
-            self.purkukirja[self.purkukirjan_koko] = merkkijono1 + merkkijono2[0]
-            self.purkukirjan_koko += 1
+            if self.purkukirjan_koko < 4096:
+                self.purkukirja[self.purkukirjan_koko] = merkkijono1 + merkkijono2[0]
+                self.purkukirjan_koko += 1
 
             merkkijono1 = merkkijono2
             j += 12

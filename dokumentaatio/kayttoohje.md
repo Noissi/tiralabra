@@ -35,3 +35,10 @@ Valittava algoritmi:
 Anna polku purettavaan tiedostoon.
 > polku/tiedosto.txt
 ```
+
+Ohjelma kertoo puretun / pakatun tiedoston koon.
+```
+Purettavan tiedoston koko: 32249 tavua.
+Puretun tiedoston koko: 57224 tavua.
+Tiedostokoko on 177% pakatusta tiedostosta.
+```
