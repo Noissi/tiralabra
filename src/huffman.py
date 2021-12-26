@@ -25,6 +25,8 @@ class Huffman:
 
     def aja(self):
         """ Ajaa Huffmanin pakkausalgoritmin.
+            Palauttaa:
+    		    Polun pakattuun tiedostoon.
 		"""
 
         esiintyvyys = self.kirjaintenEsiintyvyys()
@@ -37,6 +39,8 @@ class Huffman:
 
     def pakkaa(self):
         """ Pakkaa tekstitiedoston pienempään tilaan. Luo uuden binääritiedoston.
+            Palauttaa:
+    		    Tiedosto binaaritekstinä.
 		"""
 
         with open(self.polku + self.nimi, "wb") as binaaritiedosto, \
@@ -61,12 +65,6 @@ class Huffman:
             binaaritiedosto.write(koko.to_bytes(2, byteorder='big', signed=False))
             binaaritiedosto.write(sanakirja_json)
             binaaritiedosto.write(int(binaariteksti, 2).to_bytes(tavupituus, 'big'))
-
-        '''
-        with open("pakatut/hfm_sanakirja.json", 'w') as sanakirjatiedosto:
-            self.sanakirja["nollat"] = ekstranollat
-            json.dump(self.sanakirja, sanakirjatiedosto)
-        '''
 
         return binaariteksti
 
@@ -155,6 +153,8 @@ class Huffman:
 
     def pura(self):
         """ Purkaa tiedoston.
+            Palauttaa:
+    		    Polun purettuun tiedostoon.
         """
 
         with open(self.tiedosto, 'rb') as purettava:

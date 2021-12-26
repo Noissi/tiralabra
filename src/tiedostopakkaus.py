@@ -4,6 +4,10 @@ from huffman import Huffman
 from lempelziv import Lempelziv
 
 def main():
+    """ Tiedostonpakkausohjelma.
+        Ajaa komentoikkunassa toimivan tekstikäyttöliittymän.
+	"""
+
     if not os.path.exists('pakatut'):
         os.makedirs('pakatut')
 
@@ -22,6 +26,9 @@ def main():
         purku(tiedosto, huffman_vai_lempel)
 
 def pakkaus(tiedosto, kumpi):
+    """ Pakkaa tiedoston valitulla tavalla.
+	"""
+
     if kumpi == 1:
         huffman = Huffman(tiedosto)
         pakattu = huffman.aja()
@@ -35,6 +42,9 @@ def pakkaus(tiedosto, kumpi):
           " tavua.\nPakkauskoko on " + str(prosentti_osuus(koko1, koko2)) + "% alkuperäisestä tiedostosta.")
 
 def purku(tiedosto, kumpi):
+    """ Purkaa tiedoston valitulla tavalla.
+	"""
+
     if kumpi == 1:
         huffman = Huffman(tiedosto)
         purettu = huffman.pura()
@@ -48,14 +58,23 @@ def purku(tiedosto, kumpi):
           " tavua.\nTiedostokoko on " + str(prosentti_osuus(koko1, koko2)) + "% pakatusta tiedostosta.")
 
 def tiedoston_koko(tiedosto):
+    """ Palauttaa tiedoston koon.
+	"""
+
     koko = Path(tiedosto).stat().st_size
     return koko
 
 def prosentti_osuus(luku1, luku2):
+    """ Palauttaa tiedoston koon suhteena alkuperäiseen.
+	"""
+
     prosentti = luku2 * 100 / luku1
     return round(prosentti)
 
 def tiedosto_olemassa(tiedosto):
+    """ Tarkistaa onko tiedosto olemassa.
+	"""
+
     if not os.path.exists(tiedosto):
         print("Tiedostoa ei löytynyt.")
         return False

@@ -20,13 +20,12 @@ class Lempelziv:
         self.nimi = Path(self.tiedosto).stem + ".lzw"
         self.polku = "pakatut/"
 
-        
         self.sanakirja = {chr(i): i for i in range(256)}
         self.sanakirjan_koko = 259
         self.sanakirja["′"] = 256
         self.sanakirja["›"] = 257
         self.sanakirja["–"] = 258
-        
+
         self.purkukirjan_koko = 259
         self.purkukirja = {i: chr(i) for i in range(256)}
         self.purkukirja["′"] = 256
@@ -35,6 +34,8 @@ class Lempelziv:
 
     def aja(self):
         """ Ajaa Lempel-Ziv -pakkausalgoritmin.
+            Palauttaa:
+    		    Polun pakattuun tiedostoon.
 		"""
 
         self.pakkaa()
@@ -43,6 +44,8 @@ class Lempelziv:
 
     def pakkaa(self):
         """ Pakkaa tiedoston.
+            Palauttaa:
+    		    Pakkaamiseen käytetyt indeksit.
         """
 
         with open(self.polku + self.nimi, "wb") as binaaritiedosto, \
@@ -65,11 +68,10 @@ class Lempelziv:
                             self.sanakirja[merkkijono] = len(self.sanakirja)
                             self.sanakirjan_koko += 1
                         sana = merkki
-                        
+
             if sana == merkkijono or self.sanakirjan_koko == 4096:
                 binaariteksti += bin(self.sanakirja[sana])[2:].zfill(12)
                 indeksit.append(self.sanakirja[sana])
-                
 
             if len(binaariteksti)%8 != 0:
                 binaariteksti += "0000"
@@ -80,6 +82,8 @@ class Lempelziv:
 
     def pura(self):
         """ Purkaa tiedoston.
+            Palauttaa:
+    		    Polun purettuun tiedostoon.
         """
 
         with open(self.tiedosto, 'rb') as purettava:
