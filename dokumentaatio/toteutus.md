@@ -11,11 +11,11 @@ Vertailu suoritetaan tiedostossa vertailu.py. Vertailussa tarkastellaan molempie
 
 ![](./kuvat/pakkauskuvaaja1.png)
 
-Vaihtuvasisältöisen tiedoston pakkauskoko laskee aluksi huomattavasti ja jää sitten noin 50 prosenttiin (Huffman 55 %, Lempel-Ziv 44%).
+Vaihtuvasisältöisen tiedoston pakkauskoko laskee aluksi huomattavasti ja jää sitten noin 50 prosenttiin (Huffman 55 %, Lempel-Ziv 44 %).
 
 ![](./kuvat/pakkauskuvaaja2.png)
 
-Toistosisältöisen tiedoston pakkauskoko laskee alussa huomattavasti, jonka jälkeen laskee hiljalleen alemmas (Huffman 255, 36, 17, 15 ja 13 %, Lempel-Ziv 60, 21, 10, 7 ja 3%).
+Toistosisältöisen tiedoston pakkauskoko laskee alussa huomattavasti, jonka jälkeen laskee hiljalleen alemmas (Huffman 255, 36, 17, 15 ja 13 %, Lempel-Ziv 60, 21, 10, 7 ja 3 %).
 
 Näissä esimerkeissä Lempel-Ziv vaikuttaa parhaimmalta kaikissa tapauksissa. Todellisuudessa pienillä tiedostoilla Huffmanin algoritmilla pääsisi parempaan pakkaussuhteeseen. Esimerkeissä Huffmanin pakkaukset sisältävät myös sanakirjan, jonka kokoa ei ole tässä työssä optimoitu. Ilman sanakirjaa, pakkauskoko olisi huomattavasti pienempi kuin Lempel-Zivilla.
 

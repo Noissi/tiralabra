@@ -6,8 +6,6 @@ from lempelziv import Lempelziv
 def main():
     if not os.path.exists('pakatut'):
         os.makedirs('pakatut')
-    if not os.path.exists('puretut'):
-        os.makedirs('puretut')
 
     pakkaa_vai_pura = int(input("Haluatko pakata vai purkaa tiedoston?\n1 = pakkaa\n2 = pura\n"))
     huffman_vai_lempel = int(input("Valittava algoritmi:\n1 = Huffman\n2 = Lempel-Ziv\n"))
